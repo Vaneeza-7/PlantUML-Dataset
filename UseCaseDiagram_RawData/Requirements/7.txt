@@ -1,0 +1,10 @@
+The Crime Information System includes the following key product functions:
+• User Management
+• Receive Crime Related Notifications
+• Update FIR
+• Create FIR
+• Access Police Station Information
+• Access Crime Database
+• Community Safety Forums
+• Manage Criminal Records
+• Search Criminal Records

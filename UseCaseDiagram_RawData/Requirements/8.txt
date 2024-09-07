@@ -1,0 +1,11 @@
+The Timetable Management System has the following functional requirements:
+User Registration and Login: The system must allow users to register and log in securely.
+Enroll Student: The system must enable administrators to enroll students and manage their information.
+Allocate Courses to Students: The system must allow administrators to assign courses to students.
+Allocate Courses to Faculty: The system must provide functionality to assign courses to faculty members.
+Add Faculty Time Preference: The system must allow faculty members to input their preferred time slots for lectures.
+Generate Timetable: The system must generate timetables based on student courses, faculty preferences, and available resources.
+Allocate Lecture Halls: The system must allocate available lecture halls based on the generated timetable.
+Generate Course Report: The system must generate reports detailing course allocations and schedules.
+Student Course Report: The system must provide students with reports showing their enrolled courses and schedules.
+Faculty Course Report: The system must provide faculty with reports detailing their course assignments and schedules.

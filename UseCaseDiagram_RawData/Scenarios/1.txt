@@ -1,0 +1,3 @@
+The Pizza Ordering System allows the user of a web browser to order pizza for home delivery. To place an order, a shopper searches to find items to purchase, adds items one at a time to a shopping cart, and possibly searches again for more items.
+When all items have been chosen, the shopper provides a delivery address. If not paying with cash, the shopper also provides credit card information.
+The system has an option for shoppers to register with the pizza shop. They can then save their name and address information, so that they do not have to enter this information every time that they place an order.

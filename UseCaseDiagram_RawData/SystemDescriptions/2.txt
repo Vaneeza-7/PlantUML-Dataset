@@ -1,0 +1,8 @@
+eDoc facilitates the input and organization of medical records, covering past diagnoses, surgeries, allergies,
+medications, immunizations, and family medical histories. eDoc incorporates a robust appointment
+scheduling system and secure data storage compliant with healthcare data protection regulations. Users can
+efficiently search and filter patient records, add detailed notes, manage medications with reminders, and store
+lab results, imaging, and diagnostic reports. Telemedicine integration enables remote patient monitoring and
+virtual visits. Patients can access their records via secure portals, and healthcare providers can analyze patient
+data trends and collaborate on cases. The app ensures data security. Regular backups and data recovery
+options are in place to prevent data loss.

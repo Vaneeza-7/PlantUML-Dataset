@@ -1,0 +1,5 @@
+Cricket Stadium Management System:
+1. The system allows fans to access comprehensive information about upcoming events in the stadium, including match schedules, team line-ups, and other relevant details.
+2. Fans can explore different pricing plans for tickets, view seat availability, and securely purchase tickets for their desired events through the system.
+3. The system provides a platform for sponsors to explore available sponsorship options within the stadium, enabling them to contribute to the operations and engage with the cricket community.
+4. Sponsors can track the return on investment (ROI) for their sponsorships through the system, allowing them to evaluate the effectiveness and impact of their contributions.

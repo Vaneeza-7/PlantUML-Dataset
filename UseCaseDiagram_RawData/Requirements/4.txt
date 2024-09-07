@@ -1,0 +1,11 @@
+The eDoc Health Record Management System must support the creation and management of patient profiles, allowing comprehensive organization of personal information.
+The eDoc Health Record Management System must enable comprehensive medical history input and organization for each patient.
+The eDoc Health Record Management System must provide advanced appointment scheduling, including reminders for both patients and healthcare providers.
+The eDoc Health Record Management System must ensure secure data storage that complies with healthcare regulations, including HIPAA.
+The eDoc Health Record Management System must integrate telemedicine practices, allowing remote consultations and interactions with patients.
+The eDoc Health Record Management System must allow patient access via secure portals, ensuring privacy and data protection.
+The eDoc Health Record Management System must offer data analysis, collaboration, and reporting functionalities for healthcare teams to improve decision-making and patient care.
+The eDoc Health Record Management System must support import/export capabilities for easy data accessibility and transfer between systems.
+The eDoc Health Record Management System must perform regular backups and include data recovery options to ensure data integrity and availability.
+The eDoc Health Record Management System must manage patient medication records, including medication reminders for patients.
+The eDoc Health Record Management System must store and manage records for lab results, imaging, and diagnostic reports to support healthcare providers in making informed decisions.

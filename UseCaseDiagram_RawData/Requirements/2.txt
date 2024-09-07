@@ -1,0 +1,7 @@
+1. During a semester, a lecturer reads one or more lectures.
+2. Sometimes the lecturer is on leave to focus on doing research; in this case, (s)he does not give a lecture.
+3. A student usually attends one or more lectures, unless (s)he has something better to do.
+4. During the semester, there will be several exercises which are meant to be solved by small study groups.
+5. Each student is assigned to one particular study group for the whole semester in the course management system.
+6. A study group consists of two to three students.
+7. After submission of a solution by a study group, it is graded by a tutor.

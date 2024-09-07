@@ -1,0 +1,2 @@
+The content management system shall allow an administrator to create a new blog account, provided the personal details of the new blogger are verified using the author credentials database.
+The content management system shall allow an administrator to create a new personal Wiki, provided the personal details of the applying author are verified using the Author Credentials service.

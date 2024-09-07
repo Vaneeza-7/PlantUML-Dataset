@@ -1,0 +1,10 @@
+A customer arrives at a checkout with items to
+purchase. The cashier uses the POS
+system to record each purchased item.
+The system presents a running total and
+line-item details. The customer enters
+payment information, which the system
+validates and records. The system updates
+inventory. The customer receives a receipt
+from the system and then leaves with the
+items.

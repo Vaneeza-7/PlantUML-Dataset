@@ -1,0 +1,3 @@
+TimeCraft: Revolutionizing Parcel Delivery Management
+TimeCraft is designed to revolutionize the parcel delivery experience, targeting major delivery companies such as FedEx and DHL. By leveraging technology, it aims to simplify parcel handling for senders, receivers, and delivery companies.
+The primary objectives of TimeCraft include improving parcel tracking accuracy, reducing rough handling issues, and empowering customers and delivery companies with more control and real-time information.

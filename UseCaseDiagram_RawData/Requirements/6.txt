@@ -1,0 +1,6 @@
+Parcel Delivery Management System shall allow:
+- Advanced parcel tracking.
+- Efficient management of returns.
+- Real-time parcel inventory control.
+- Seamless customer support interactions.
+- Secure and user-friendly payment processing.

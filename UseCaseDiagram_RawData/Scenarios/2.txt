@@ -1,0 +1,16 @@
+Consider an online reservation system for a bus company. The bus company
+includes several buses and manage trips to different cities. Each bus is
+identified by its plate number and a separately assigned bus number. The
+trips are based on a predefined schedule and stop at predefined bus stations.
+Each bus can have only one trip per day. Each bus includes a driver and one
+hostess. For long trips, the bus will have breaks at service and rest areas.
+There are two types of trips, normal trips and express trips. Express trips do
+not stop at intermediate stations and get faster at the destination. Seats can
+be reserved by customers on the web site of the bus company. The customer
+has the option to directly pay for the seat through the website. In that case,
+the seat cannot be cancelled (neither by the customer nor by the bus
+company). If the customer has not paid for the seat, the bus company can
+cancel the seat if the customer does not show up one hour before the trip.
+When the reservation is cancelled, the seat will become free and can be sold
+to another customer. Both the customer and the company staff must
+authenticate themselves for performing operations with the system.

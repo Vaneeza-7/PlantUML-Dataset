@@ -1,0 +1,1 @@
+The e-commerce system allows customers to log in and purchase tech goods and tech-related services at an affordable price. The system allows for managing orders, providing feedback, a customer helpline, and a wide catalog of products for meeting customer tech needs.
