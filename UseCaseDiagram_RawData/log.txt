@@ -19,3 +19,11 @@ SystemDescriptions 11: D:\Users\Public\Downloads\ecommerce
 Requirements 10: D:\Users\Public\Downloads\ecommerce
 Requirements 11: D:\Users\Public\Downloads\clinic
 SystemDescriptions 12: D:\Users\Public\Downloads\clinic
+Requirements 12: D:\Users\Public\Downloads\lawfirm
+SystemDescriptions 13: D:\Users\Public\Downloads\lawfirm
+Requirements 13: Book:UML and The Unified Process\Page 51, atm
+Requirements 14: https://csis.pace.edu/%7Emarchese/CS389/L9/Use%20Case%20Diagrams.pdf Page35
+Requirements 15: D:\Users\Public\Downloads\cafe
+SystemDescriptions 14: D:\Users\Public\Downloads\rems
+SystemDescriptions 15: D:\Users\Public\Downloads\eventease
+Requirements 16: UML DIagramming Book chap 4

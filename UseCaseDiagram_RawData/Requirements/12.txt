@@ -1,0 +1,4 @@
+Law Keeper - Law Firm Management System:
+The system allows lawyers to create, update, and manage case files, ensuring easy access to case-related documents and information. Users can create and assign tasks related to cases, ensuring all relevant deadlines and responsibilities are tracked and completed. LawKeeper provides a repository for research documents and legal references, allowing users to search and manage these materials to assist with case preparation.
+The system facilitates seamless communication between lawyers and clients, offering a centralized platform to provide updates, share documents, and answer queries. LawKeeper also helps users monitor and manage critical case deadlines by providing alerts and reminders to ensure tasks are completed on time.
+Additionally, the system tracks billable hours for each client and enables both clients and lawyers to review billing details, ensuring transparency in transactions and payments.

@@ -1,0 +1,11 @@
+Altered State University (ASU) Registration System 
+1. Professors indicate which courses they will teach on-line. 
+2. A course catalog can be printed 
+3. Allow students to select on-line four courses for upcoming 
+semester. 
+4. No course may have more than 10 students or less than 3 
+students. 
+5. When the registration is completed, the system sends 
+information to the billing system. 
+6. Professors can obtain course rosters on-line. 
+7. Students can add or drop classes on-line.

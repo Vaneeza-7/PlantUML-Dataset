@@ -1,0 +1,12 @@
+Business Process Outsourcing (BPO) Management System
+1. The system must provide a personalized profile for each user, ensuring security for individual accounts.
+2. The system must allow users to personalize their account and change their password as needed.
+3. The system must enable clients to post project requests with specific requirements for Business Process Outsourcing (BPO) organizations to choose from.
+4. The system must allow BPO organizations to search for and respond to project requests posted by clients.
+5. The system must facilitate the transfer of documents required by the BPO organization, allowing the receiver to download them.
+6. The system must provide clients with constant updates on the progress of their project or work.
+7. The system must enable clients to check the quality of their product or service and request any necessary modifications.
+8. The system must allow BPO organizations to upload the final product or service for further procedures such as payment or shipment.
+9. The system must facilitate payments from clients to BPO organizations at the end of their agreement.
+10. The system must ensure that the product or service is delivered to the client after completion.
+11. The system must allow clients to rate the services provided by the BPO organization.

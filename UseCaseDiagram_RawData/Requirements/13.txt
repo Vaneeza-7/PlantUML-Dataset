@@ -1,0 +1,7 @@
+1. The ATM system must check the validity of the inserted ATM card.
+2. The ATM system must validate the PIN number entered by the customer.
+3. The ATM system must ensure that no more than $250 is dispensed against any ATM card within a 24-hour period.
+4. The ATM system must be written in C++.
+5. The ATM system must communicate with the bank using 256-bit encryption.
+6. The ATM system must validate an ATM card in three seconds or less.
+7. The ATM system must validate a PIN in three seconds or less.

@@ -1,0 +1,8 @@
+Cafe Management System:
+The system must allow users to log in with existing credentials or create a new account for access.
+The system must provide a centralized dashboard where users can view key metrics, notifications, and navigate to other functionalities.
+The system must enable users to add, update, and delete items in the inventory, track stock levels, set reorder points, and automate restocking processes.
+The system must facilitate the creation, modification, and deletion of menu items, allowing customization of menu categories and pricing. Menu images should also be available.
+The system must streamline the order placement process for customers, providing order confirmation and status updates to both customers and staff.
+The system must maintain a database of customer profiles, capturing and storing customer preferences and order history.
+The system must generate comprehensive graphs (such as Area Chart and Bar Chart) on sales and customer trends. Jasper reports must be used to produce receipts for customers.
