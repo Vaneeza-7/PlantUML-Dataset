@@ -1,0 +1,19 @@
+This case study mainly focusses on developing an application to address the health disparities among the various classes of patients and the appropriate medical interventions in order 
+to achieve health equity for every individual. The target users of the application are patients, 
+caretakers, healthcare providers, medical professionals and government officials. One of the 
+main functionalities of the system is a patient classification based on social determinants such as 
+economic backgrounds, health insurance amount received, medical allowances, demographics, 
+age, type of disability and hereditary health information. It has to be ensured that appropriate 
+treatment is administered for the people of all categories in an equitable manner. The patient 
+should be able to feed health details into the application that will be corroborated by the details 
+furnished by the healthcare providers and the patient’s public health records. Another important functionality is to notify the patients about the relevant medical events and health schemes 
+available based on the system’s categorization of the patient’s data. The system also must provide 
+personal health-tracking facilities for the patients by means of assessing the patients’ individual 
+medical records. The next function is to enable the healthcare providers such as hospitals and 
+clinics to plan and schedule health worker activity based on the patient’s need. Consequently, 
+the application should make available the analysis of these data to the government, thereby 
+assisting in the implementation of significant intervention schemes to offer medical facilities 
+without any conflicts and eliminate the health discrepancies. Thus, with a holistic approach, 
+the application should allow patients to register and upload social and medical data which get 
+classified based on criteria that are then used by the healthcare providers and governments to 
+extend healthcare to all individuals without any disparities.
