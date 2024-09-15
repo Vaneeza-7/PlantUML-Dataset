@@ -1,0 +1,13 @@
+Consider a MAIL_ORDER database in which employees take orders for parts 
+from customers. The data requirements are summarized as follows:
+ ■The mail order company has employees, each identified by a unique em
+ployee number, first and last name, and Zip Code.
+ ■ Each customer of the company is identified by a unique customer number, 
+f
+ irst and last name, and Zip Code.
+ ■ Each part sold by the company is identified by a unique part number, a 
+part name, price, and quantity in stock.
+ ■ Each order placed by a customer is taken by an employee and is given a 
+unique order number. Each order contains specified quantities of one or 
+more parts. Each order has a date of receipt as well as an expected ship 
+date. The actual ship date is also recorded.

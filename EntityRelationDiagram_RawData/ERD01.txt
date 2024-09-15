@@ -1,0 +1,15 @@
+ The company is organized into departments. Each department has a unique 
+name, a unique number, and a particular employee who manages the depart
+ment. We keep track of the start date when that employee began managing 
+the department. A department may have several locations.
+A department controls a number of projects, each of which has a unique 
+name, a unique number, and a single location.
+The database will store each employee’s name, Social Security number,2 
+address, salary, sex (gender), and birth date. An employee is assigned to one 
+department, but may work on several projects, which are not necessarily 
+controlled by the same department. It is required to keep track of the cur
+rent number of hours per week that an employee works on each project, as 
+well as the direct supervisor of each employee (who is another employee).
+The database will keep track of the dependents of each employee for insur
+ance purposes, including each dependent’s first name, sex, birth date, and 
+relationship to the employee.

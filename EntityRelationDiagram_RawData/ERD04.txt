@@ -1,0 +1,6 @@
+A database is being constructed to keep track of the teams and games of a 
+sports league. A team has a number of players, not all of whom participate in 
+each game. It is desired to keep track of the players participating in each 
+game for each team, the positions they played in that game, and the result of the game. Design an ER schema diagram for this application, stating any 
+assumptions you make. Choose your favorite sport (e.g., soccer, baseball, 
+football).

@@ -1,0 +1,21 @@
+ Consider a GRADE_BOOK database in which instructors within an academic 
+department record points earned by individual students in their classes. The 
+data requirements are summarized as follows:
+ ■ Each student is identified by a unique identifier, first and last name, and 
+an e-mail address.
+ ■ Each instructor teaches certain courses each term. Each course is identified 
+by a course number, a section number, and the term in which it is taught. For  each course he or she teaches, the instructor specifies the minimum number 
+of points required in order to earn letter grades A, B, C, D, and F. For exam
+ple, 90 points for an A, 80 points for a B, 70 points for a C, and so forth.
+ ■ Students are enrolled in each course taught by the instructor.
+ ■ Each course has a number of grading components (such as midterm 
+exam, final exam, project, and so forth). Each grading component has a 
+maximum number of points (such as 100 or 50) and a weight (such as 
+20% or 10%). The weights of all the grading components of a course usu
+ally total 100.
+ ■ Finally, the instructor records the points earned by each student in each of 
+the grading components in each of the courses. For example, student 1234 
+earns 84 points for the midterm exam grading component of the section 2 
+course CSc2310 in the fall term of 2009. The midterm exam grading com
+ponent may have been defined to have a maximum of 100 points and a 
+weight of 20% of the course grade.

@@ -1,0 +1,14 @@
+Design an ER schema for keeping track of information about votes taken in 
+the U.S. House of Representatives during the current two-year congress
+ional session. The database needs to keep track of each U.S. STATE’s Name 
+(e.g., ‘Texas’, ‘New York’, ‘California’) and include the Region of the state 
+(whose domain is {‘Northeast’, ‘Midwest’, ‘Southeast’, ‘Southwest’, ‘West’}). 
+Each CONGRESS_PERSON in the House of Representatives is described by 
+his or her Name, plus the District represented, the Start_date when the con
+gressperson was first elected, and the political Party to which he or she 
+belongs (whose domain is {‘Republican’, ‘Democrat’, ‘Independent’, 
+‘Other’}). The database keeps track of each BILL (i.e., proposed law),  
+including the Bill_name, the Date_of_vote on the bill, whether the bill  
+Passed_or_failed (whose domain is {‘Yes’, ‘No’}), and the Sponsor (the 
+congressperson(s) who sponsored—that is, proposed—the bill). The data
+base also keeps track of how each congressperson voted on each bill (domain of Vote attribute is {‘Yes’, ‘No’, ‘Abstain’, ‘Absent’}).

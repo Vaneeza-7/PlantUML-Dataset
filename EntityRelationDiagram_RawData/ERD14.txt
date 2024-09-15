@@ -1,0 +1,23 @@
+Consider an ONLINE_AUCTION database system in which members (buyers 
+and sellers) participate in the sale of items. The data requirements for this 
+system are summarized as follows:
+ ■ The online site has members, each of whom is identified by a unique 
+member number and is described by an e-mail address, name, password, 
+home address, and phone number.
+ ■ A member may be a buyer or a seller. A buyer has a shipping address 
+recorded in the database. A seller has a bank account number and routing 
+number recorded in the database.
+ ■ Items are placed by a seller for sale and are identified by a unique item 
+number assigned by the system. Items are also described by an item title, 
+a description, starting bid price, bidding increment, the start date of the 
+auction, and the end date of the auction.
+ ■ Items are also categorized based on a fixed classification hierarchy (for 
+example, a modem may be classified as COMPUTER → HARDWARE → 
+MODEM).
+ ■ Buyers make bids for items they are interested in. Bid price and time of 
+bid are recorded. The bidder at the end of the auction with the highest bid 
+price is declared the winner, and a transaction between buyer and seller 
+may then proceed.
+ ■ The buyer and seller may record feedback regarding their completed 
+transactions. Feedback contains a rating of the other party participating 
+in the transaction (1–10) and a comment.

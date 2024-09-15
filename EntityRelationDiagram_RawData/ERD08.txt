@@ -1,0 +1,17 @@
+The following narrative describes a simplified version of the organization of 
+Olympic facilities planned for the summer Olympics. Draw an EER diagram 
+that shows the entity types, attributes, relationships, and specializations for 
+this application. State any assumptions you make. The Olympic facilities are 
+divided into sports complexes. Sports complexes are divided into one-sport 
+and multisport types. Multisport complexes have areas of the complex desig
+nated for each sport with a location indicator (e.g., center, NE corner, and so 
+ on). A complex has a location, chief organizing individual, total occupied 
+area, and so on. Each complex holds a series of events (e.g., the track sta
+dium may hold many different races). For each event there is a planned date, 
+duration, number of participants, number of officials, and so on. A roster of 
+all officials will be maintained together with the list of events each official 
+will be involved in. Different equipment is needed for the events (e.g., goal 
+posts, poles, parallel bars) as well as for maintenance. The two types of facil
+ities (one-sport and multisport) will have different types of information. For 
+each type, the number of facilities needed is kept, together with an approxi
+mate budget.

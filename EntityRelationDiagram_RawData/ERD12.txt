@@ -1,0 +1,20 @@
+1. The game of chess is played between two players.
+ 2. The game is played on an 8 × 8 board
+ 3. The players are assigned a color of black or white at the start of the game.
+ 4. Each player starts with the following pieces (traditionally called 
+chessmen):
+ f. 
+a. king
+ b. queen
+ c. 2 rooks
+ d. 2 bishops
+ e. 2 knights
+ 8 pawns
+ 5. Every piece has its own initial position.
+ 6. Every piece has its own set of legal moves based on the state of the game. 
+You do not need to worry about which moves are or are not legal except 
+for the following issues:
+ a. A piece may move to an empty square or capture an opposing piece.
+ b. If a piece is captured, it is removed from the board.
+ c. If a pawn moves to the last row, it is “promoted” by converting it to 
+another piece (queen, rook, bishop, or knight).

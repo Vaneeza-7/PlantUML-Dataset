@@ -1,0 +1,34 @@
+Design a database to keep track of information for an art museum. Assume 
+that the following requirements were collected:
+ ■ The museum has a collection of ART_OBJECTS. Each ART_OBJECT has a 
+unique Id_no, an Artist (if known), a Year (when it was created, if known), 
+a Title, and a Description. The art objects are categorized in several ways, as 
+discussed below.
+ ■ ART_OBJECTS are categorized based on their type. There are three main 
+types—PAINTING, SCULPTURE, and STATUE—plus another type called 
+OTHER to accommodate objects that do not fall into one of the three main 
+types.
+ ■ A PAINTING has a Paint_type (oil, watercolor, etc.), material on which 
+it is Drawn_on (paper, canvas, wood, etc.), and Style (modern, 
+abstract, etc.).
+ ■ A SCULPTURE or a statue has a Material from which it was created (wood, 
+stone, etc.), Height, Weight, and Style.
+ ■ An art object in the OTHER category has a Type (print, photo, etc.) and Style.
+ ■ ART_OBJECTs are categorized as either PERMANENT_COLLECTION 
+(objects that are owned by the museum) and BORROWED. Information 
+captured about objects in the PERMANENT_COLLECTION includes  
+Date_acquired, Status (on display, on loan, or stored), and Cost. Information 
+ captured about BORROWED objects includes the Collection from which it 
+was borrowed, Date_borrowed, and Date_returned.
+ ■ Information describing the country or culture of Origin (Italian, Egyptian, 
+American, Indian, and so forth) and Epoch (Renaissance, Modern, 
+Ancient, and so forth) is captured for each ART_OBJECT.
+ ■ The museum keeps track of ARTIST information, if known: Name,  
+DateBorn (if known), Date_died (if not living), Country_of_origin, Epoch, 
+Main_style, and Description. The Name is assumed to be unique.
+ ■ Different EXHIBITIONS occur, each having a Name, Start_date, and End_date. 
+EXHIBITIONS are related to all the art objects that were on display during 
+the exhibition.
+ ■ Information is kept on other COLLECTIONS with which the museum 
+interacts; this information includes Name (unique), Type (museum, per
+sonal, etc.), Description, Address, Phone, and current Contact_person.
