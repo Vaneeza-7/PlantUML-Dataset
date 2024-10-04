@@ -689,6 +689,10 @@
     {
         "input": "The Online Learning Management System (OLMS) is a comprehensive platform designed to facilitate online education and training. OLMS offers features like course creation, student enrollment, assessments, and progress tracking. It also provides tools for communication, collaboration, and content delivery. The system aims to enhance the learning experience for students and streamline the teaching process for instructors. Design a use case diagram for the Online Learning Management System.",
         "output": "@startuml\nleft to right direction\n\nactor Instructor\nactor Student\n\nrectangle Online_Learning_Management_System {\n    usecase \"Create Course\" as UC1\n    usecase \"Enroll Students\" as UC2\n    usecase \"Assess Students\" as UC3\n    usecase \"Track Progress\" as UC4\n    usecase \"Communicate through Chat\" as UC5\n    usecase \"Deliver Content\" as UC6\n    usecase \"Take Assessment\" as UC7\n}\n\nInstructor --> UC1\nInstructor --> UC2\nInstructor --> UC3\nInstructor --> UC4\nInstructor --> UC5\nInstructor --> UC6\nStudent --> UC5\nStudent --> UC7\n@enduml"
+    },
+    {
+        "input": "Design a use case diagram for a crypto exchange system involving currency exchange, trading, viewing market trends, and updating market trends using external market data from sources like Binance and Kraken.",
+        "output": "@startuml\nleft to right direction\n\nactor User\nactor \"External Market API (Binance, Kraken)\" as ExternalMarketAPI <<secondary>>\n\nrectangle Crypto_Exchange_System {\n    usecase \"Exchange Cryptocurrencies\" as UC1\n    usecase \"Perform Trading\" as UC2\n    usecase \"View Market Trends\" as UC3\n    usecase \"Update Market Trends\" as UC4\n}\n\nUser --> UC1\nUser --> UC2\nUser --> UC3\n\nUC3 --> UC4 : <<include>>\nExternalMarketAPI --> UC4\n@enduml"
     }
 ]
 
