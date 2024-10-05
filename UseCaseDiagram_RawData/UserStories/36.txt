@@ -1,0 +1,46 @@
+User stories for Personal Finance Management 
+183. As a user, I want to be able to track my income and expenses in one place.
+Acceptance criteria:
+ 	User must be able to add and categorize their income and expenses.
+ 	User must be able to view a summary of their income and expenses over a selected time period.
+ 	User must be able to add recurring income and expenses.
+184. As a user, I want to be able to set and track financial goals.
+Acceptance criteria:
+ 	User must be able to set financial goals, such as saving for a vacation or paying off debt.
+ 	User must be able to track their progress towards their goals.
+ 	User must be able to receive reminders and alerts about their goals.
+185. As a user, I want to be able to view my account balances and transactions from multiple financial institutions in one place.
+Acceptance criteria:
+ 	User must be able to securely connect their bank accounts and credit cards to the platform.
+ 	User must be able to view their account balances and transactions in real-time.
+ 	User must be able to categorize their transactions and view reports.
+186. As a user, I want to be able to create and stick to a budget.
+Acceptance criteria:
+ 	User must be able to create a budget based on their income and expenses.
+ 	User must be able to track their spending against their budget.
+ 	User must be able to receive alerts when they are close to exceeding their budget.
+187. As a user, I want to be able to manage my bills and subscriptions.
+Acceptance criteria:
+ 	User must be able to add their bills and subscriptions to the platform.
+ 	User must be able to receive reminders when bills are due.
+ 	User must be able to track their spending on subscriptions.
+188. As a user, I want to be able to generate reports and visualizations to help me better understand my finances.
+Acceptance criteria:
+ 	User must be able to generate reports and visualizations that show their spending habits over time.
+ 	User must be able to compare their spending to others in their demographic or geographic area.
+ 	User must be able to export data in a standard format for use in other financial tools.
+189. As a user, I want to be able to receive personalized financial advice and recommendations.
+Acceptance criteria:
+ 	User must be able to answer a series of questions to help the platform understand their financial situation.
+ 	User must be able to receive personalized advice and recommendations based on their answers.
+ 	User must be able to access a library of educational resources on personal finance.
+190. As a user, I want to be able to securely store my sensitive financial information.
+Acceptance criteria:
+ 	User must be able to securely store their bank account and credit card information.
+ 	User must be able to set up two-factor authentication for added security.
+ 	User must be able to control who has access to their financial information.
+191. As a user, I want to be able to track my investments and retirement savings.
+Acceptance criteria:
+ 	User must be able to connect their investment and retirement accounts to the platform.
+ 	User must be able to view their investment performance and retirement savings progress.
+ 	User must be able to receive alerts when their investments need attention.

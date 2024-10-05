@@ -1,0 +1,20 @@
+81.As a recruiter, I want to be able to post job listings and descriptions online, so that potential candidates can easily find and apply for open positions.
+82.As a job seeker, I want to be able to search and filter job listings based on location, salary, and other criteria, so that I can find positions that match my qualifications and interests.
+83.As a recruiter, I want to be able to easily review and manage resumes and job applications, so that I can efficiently screen candidates and identify qualified candidates.
+84.As a job seeker, I want to be able to receive updates and notifications on the status of my application, so that I can stay informed and engaged throughout the recruitment process.
+85.As a recruiter, I want to be able to schedule and conduct interviews with candidates, either in person or remotely, so that I can assess their skills and fit for the position.
+86.As a job seeker, I want to be able to provide references and other supporting materials to potential employers, so that I can demonstrate my qualifications and experience.
+87.As a recruiter, I want to be able to track and manage the hiring process from start to finish, including candidate communication, background checks, and job offers.
+88.As a job seeker, I want to be able to easily submit and manage multiple job applications, so that I can increase my chances of finding a suitable position.                          
+89.As a recruiter, I want to be able to collaborate with other team members and hiring managers, so that we can make informed and collaborative decisions about job candidates.
+90.As a job seeker, I want to be able to research and learn more about the company and its culture, so that I can decide if it is a good fit for me.
+91.As a recruiter, I want to be able to conduct skill assessments and tests for candidates, so that I can ensure that they have the necessary skills and knowledge for the position.
+92.As a job seeker, I want to be able to provide feedback on the recruitment process, so that potential employers can improve their hiring process and candidate experience.
+93.As a recruiter, I want to be able to easily communicate with candidates and provide timely updates on the recruitment process, so that we can build positive relationships with potential hires.
+94.As a job seeker, I want to be able to receive feedback and constructive criticism on my job application and interview performance, so that I can improve my skills and increase my chances of success in future applications.
+95.As a recruiter, I want to be able to access and manage a pool of candidates for future job openings, so that we can build a strong talent pipeline.
+96.As a job seeker, I want to be able to easily access information about employee benefits and perks, so that I can evaluate the overall value of a job offer.
+97.As a recruiter, I want to be able to collaborate with external recruiting agencies and services, so that we can access a wider pool of qualified candidates.
+98.As a job seeker, I want to be able to connect and network with potential employers and industry professionals, so that I can increase my visibility and job opportunities.
+99.As a recruiter, I want to be able to leverage social media and other online platforms to attract and engage with potential job candidates, so that we can build a strong employer brand.
+100.As a job seeker, I want to be able to receive guidance and support on job search strategies and techniques, so that I can improve my chances of finding a suitable position.

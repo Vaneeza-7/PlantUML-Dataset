@@ -1,0 +1,41 @@
+User stories for Learning management system
+72. As a student, I want to be able to view my course schedule and deadlines so that I can stay organized.
+Acceptance Criteria: 
+	The system should display the student's course schedule and deadlines in a user-friendly format that is easy to understand and navigate.
+
+73. As an instructor, I want to be able to create and manage course content so that I can deliver engaging and informative lessons.
+Acceptance Criteria: 
+ 	The system should allow instructors to create and manage course content such as lectures, readings, and assignments. 
+ 	The system should provide a way for instructors to organize content by module or week.
+74. As a student, I want to be able to participate in online discussions with my classmates so that I can collaborate and learn from others.
+Acceptance Criteria: 
+ 	The system should allow students to participate in online discussions with their classmates.
+ 	The system should provide a way for students to reply to posts and interact with others.
+75. As an administrator, I want to be able to manage user accounts and access so that I can ensure security and privacy.
+Acceptance Criteria: 
+ 	The system should provide an administrator interface that allows for user account management, including adding, modifying, and removing user accounts. 
+ 	The system should have security measures in place to protect user data and ensure privacy.
+76. As a student, I want to be able to track my progress and grades so that I can monitor my performance.
+Acceptance Criteria:
+ 	The system should provide students with access to their grades, including assignment grades, quiz grades, and overall course grades. 
+ 	The system should provide a way for students to track their progress and monitor their performance.
+77.As an instructor, I want to be able to create quizzes and assessments so that I can evaluate student learning.
+Acceptance Criteria: 
+ 	The system should allow instructors to create quizzes and assessments, including multiple-choice questions, short answer questions, and essay questions.
+ 	The system should provide a way for instructors to grade and provide feedback on student responses.
+78. As a student, I want to be able to access course materials from my mobile device so that I can study on the go.
+Acceptance Criteria: 
+ 	The system should provide a mobile app or responsive design that allows students to access course materials and participate in discussions from their mobile devices.
+
+79.As an instructor, I want to be able to provide video lectures so that I can engage students and deliver content in a dynamic way.
+Acceptance Criteria: 
+ 	The system should allow instructors to create and upload video lectures, including the ability to edit and add captions.
+ 	The system should provide a way for students to view video lectures and interact with instructors.
+80.As a student, I want to be able to receive personalized recommendations and resources based on my learning preferences so that I can improve my knowledge and skills.
+Acceptance Criteria: 
+	The system should provide personalized recommendations and resources based on the student's learning preferences, including topics of interest and learning style.
+
+81. As an administrator, I want to be able to generate reports on student and course performance so that I can evaluate the effectiveness of the system and make data-driven decisions.
+Acceptance Criteria: 
+ 	The system should provide a reporting feature that allows administrators to generate reports on student and course performance, including grades, participation, and completion rates. 
+ 	The system should provide a way for administrators to export and analyze data.

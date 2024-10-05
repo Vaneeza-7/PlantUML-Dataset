@@ -1,0 +1,47 @@
+User stories for Project management
+54. As a project manager, I want to be able to create a project plan online so that I can set goals and track progress.
+Acceptance Criteria:
+ 	User should be able to create a new project plan.
+ 	User should be able to set project goals and objectives.
+ 	User should be able to assign tasks to team members and set deadlines.
+55. As a team member, I want to be able to view my assigned tasks online so that I can stay organized and on track.
+Acceptance Criteria:
+ 	User should be able to log in to the project management tool with their username and password.
+ 	User should be able to view a list of their assigned tasks and their due dates.
+ 	User should be able to mark tasks as completed or in progress.
+
+56. As a project manager, I want to be able to track project progress online so that I can ensure that the project is on track.
+Acceptance Criteria:
+ 	User should be able to view a progress dashboard that shows the overall status of the project.
+ 	User should be able to see the completion status of tasks and milestones.
+ 	User should be able to receive notifications when a task or milestone is completed.
+57. As a team member, I want to be able to communicate with other team members online so that we can collaborate effectively.
+Acceptance Criteria:
+ 	User should be able to send messages to other team members through the project management tool.
+ 	User should be able to receive notifications when they receive a new message.
+ 	User should be able to see a log of all messages sent and received.
+58. As a project manager, I want to be able to assign resources to tasks so that I can manage the project budget effectively.
+Acceptance Criteria:
+ 	User should be able to view a list of available resources.
+ 	User should be able to assign resources to specific tasks.
+ 	User should be able to track resource usage and budget expenditures.
+59. As a team member, I want to be able to view project documents online so that I can access important project information.
+Acceptance Criteria:
+ 	User should be able to access project documents through the project management tool.
+ 	User should be able to view, download, and edit documents as needed.
+ 	User should be able to see a log of document revisions.
+60. As a project manager, I want to be able to set up project workflows so that tasks can be completed efficiently.
+Acceptance Criteria:
+ 	User should be able to create workflows that map out the steps required to complete a task.
+ 	User should be able to assign workflows to specific tasks.
+ 	User should be able to track progress through each step of the workflow.
+61. As a team member, I want to be able to log time spent on tasks so that I can track my productivity and contribute to accurate billing.
+Acceptance Criteria:
+ 	User should be able to log time spent on a specific task.
+ 	User should be able to see a log of time spent on each task.
+ 	User should be able to export time logs for billing purposes.
+62. As a project manager, I want to be able to set up alerts for upcoming deadlines so that I can ensure that the project stays on track.
+Acceptance Criteria:
+ 	User should be able to set up alerts for upcoming task or milestone deadlines.
+ 	User should receive notifications when a deadline is approaching or has passed.
+ 	User should be able to customize the timing and frequency of the alerts.

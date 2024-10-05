@@ -1,0 +1,112 @@
+User stories for Real estate listings website
+289. As a user, I want to be able to search for properties in a specific location so that I can find homes that fit my needs and preferences.
+Acceptance Criteria:
+ 	The website should have a search bar accessible from the homepage.
+ 	The user should be able to input a specific location or select a location from a drop-down menu.
+ 	The website should display a list of available properties in the selected location.
+ 	The user should be able to filter the search results by price, number of bedrooms/bathrooms, square footage, and other relevant criteria.
+ 	The website should display high-quality photos and detailed descriptions of each property.
+
+290. As a user, I want to be able to save my favorite properties so that I can easily access them later and compare them to other listings.
+Acceptance Criteria:
+ 	The website should allow the user to create an account and sign in.
+ 	The user should be able to save properties to their account by clicking a "save" button on each listing.
+ 	The website should display a list of the user's saved properties on their account dashboard.
+ 	The user should be able to compare the details of their saved properties side-by-side.
+ 	The website should send email alerts to the user when new properties that meet their criteria are listed.
+
+291. As a user, I want to be able to contact real estate agents directly through the website so that I can get more information about a property or schedule a viewing.
+Acceptance Criteria:
+ 	The website should display contact information for the listing agent on each property page.
+ 	The user should be able to send a message to the agent directly through the website or via email.
+ 	The website should confirm that the message was sent and display a message history between the user and the agent.
+ 	The user should be able to schedule a viewing of the property directly with the agent through the website.
+ 	The website should provide the user with the option to rate and provide feedback on their experience with the agent.
+
+292. As a user, I want to be able to view properties on a map so that I can easily see their location and proximity to important landmarks.
+Acceptance Criteria:
+ 	The website should have a map view accessible from the homepage.
+ 	The user should be able to search for properties in a specific location and see them displayed on the map.
+ 	The website should provide a zoom function for the map so that the user can see more detail.
+ 	The user should be able to filter the properties displayed on the map by price, number of bedrooms/bathrooms, and other relevant criteria.
+ 	The website should provide a list of the properties displayed on the map, including photos and detailed descriptions.
+
+293. As a user, I want to be able to view properties in a virtual tour so that I can get a better sense of their layout and features before visiting in person.
+Acceptance Criteria:
+ 	The website should have a virtual tour feature accessible from each property page.
+ 	The virtual tour should allow the user to navigate through the property using high-quality photos or videos.
+ 	The virtual tour should display information about each room and feature of the property as the user navigates through it.
+ 	The user should be able to pause or rewind the virtual tour to focus on specific rooms or features.
+ 	The website should provide the option for the user to contact the listing agent or schedule a viewing of the property directly from the virtual tour page.
+
+294. As a user, I want to be able to view historical property data so that I can understand the property's value and potential future trends.
+Acceptance Criteria:
+ 	The website should provide historical sales data for each property, including previous sales prices and dates.
+ 	The website should provide data on the property's market value and appreciation over time.
+ 	The user should be able to view trends in the local real estate market, such as median home prices and inventory levels.
+ 	The website should display data in an easy-to-understand format, such as charts or graphs.
+ 	The user should be able to save historical property data to their account for future reference.
+
+295. As a user, I want to be able to receive alerts when a property that meets my criteria becomes available so that I can stay up-to-date on the market.
+Acceptance Criteria:
+ 	The website should allow the user to create an account and sign in.
+ 	The user should be able to set up alerts for specific criteria, such as location, price range, and number of bedrooms/bathrooms.
+ 	The website should send email alerts to the user when a property that meets their criteria is listed.
+ 	The user should be able to manage their alerts and update their criteria at any time.
+ 	The website should provide the option for the user to receive alerts via SMS or push notification.
+
+296. As a user, I want to be able to view property details and amenities so that I can make an informed decision about whether to schedule a viewing.
+Acceptance Criteria:
+ 	The website should provide detailed information about each property, including the number of bedrooms/bathrooms, square footage, and other relevant details.
+ 	The website should display high-quality photos of the property's interior and exterior.
+ 	The user should be able to view a list of amenities, such as a pool, gym, or parking garage, that are included with the property.
+ 	The website should provide information on the property's location and proximity to important landmarks, such as schools and parks.
+ 	The user should be able to request more information or schedule a viewing of the property directly from the property page.
+
+297. As a user, I want to be able to save search criteria so that I can easily find new listings that meet my preferences.
+Acceptance Criteria:
+ 	The website should allow the user to create an account and sign in.
+ 	The user should be able to save search criteria, such as location, price range, and number of bedrooms/bathrooms.
+ 	The website should display a list of the user's saved search criteria on their account dashboard.
+ 	The user should be able to quickly access their saved search criteria and see new listings that meet their preferences.
+ 	The website should provide the option for the user to receive email or push notification alerts when new listings that meet their criteria are listed.
+
+298. As a user, I want to be able to leave reviews of properties I have viewed so that I can share my experience with other potential buyers.
+Acceptance Criteria:
+ 	The website should allow the user to create an account and sign in.
+ 	The user should be able to leave a review of the property, including a star rating and written feedback.
+ 	The review should be displayed on the property page for other users to see.
+ 	The user should be able to edit or delete their review at any time.
+ 	The website should have a moderation system in place to ensure that reviews are appropriate and do not contain any offensive or misleading content.
+
+299. As a user, I want to be able to compare multiple properties side-by-side so that I can easily compare their features and make an informed decision.
+Acceptance Criteria:
+ 	The website should allow the user to select multiple properties from their search results.
+ 	The selected properties should be displayed in a side-by-side comparison table.
+ 	The comparison table should display key features of each property, such as number of bedrooms/bathrooms, square footage, and price.
+ 	The user should be able to easily switch between properties in the comparison table.
+ 	The website should allow the user to save their comparison table for future reference.
+
+300. As a user, I want to be able to view 3D virtual tours of properties so that I can get a more immersive experience of the property.
+Acceptance Criteria:
+ 	The website should provide 3D virtual tours for each property, created using technology such as Matterport or iGUIDE.
+ 	The virtual tour should provide a realistic, immersive experience of the property's interior and exterior.
+ 	The user should be able to control the virtual tour using their mouse or keyboard.
+ 	The website should display relevant information about the property during the virtual tour, such as the number of bedrooms/bathrooms and square footage.
+ 	The user should be able to schedule a viewing of the property directly from the virtual tour page.
+
+301. As a user, I want to be able to filter search results by specific criteria so that I can quickly find properties that meet my preferences.
+Acceptance Criteria:
+ 	The website should display a search form that allows the user to enter their search criteria, such as location, price range, and number of bedrooms/bathrooms.
+ 	The website should allow the user to apply additional filters to their search, such as property type (e.g. house, condo, apartment) or amenities (e.g. pool, gym, parking garage).
+ 	The website should display search results that match the user's search criteria and filters.
+ 	The user should be able to sort their search results by relevant criteria, such as price or square footage.
+ 	The website should allow the user to save their search criteria and filters for future reference.
+
+302. As a user, I want to be able to view properties on a map so that I can see their location and proximity to other landmarks.
+Acceptance Criteria:
+ 	The website should display a map that shows the location of each property in the search results.
+ 	The user should be able to zoom in and out of the map to view properties at different levels of detail.
+ 	The map should display relevant information about each property, such as the number of bedrooms/bathrooms and price.
+ 	The user should be able to filter their search results on the map based on specific criteria, such as price range or property type.
+ 	The website should allow the user to view more detailed information about a property by clicking on its location marker on the map.

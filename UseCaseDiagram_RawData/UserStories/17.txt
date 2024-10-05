@@ -1,0 +1,49 @@
+User stories for Booking travel accommodations
+
+18.	As a traveler, I want to be able to search for available accommodations in my destination.
+Acceptance criteria:
+ 	The travel booking website or app provides a user-friendly search form with clear input fields and filters.
+ 	The app allows the user to search by location, dates, type of accommodation, amenities, and price range.
+ 	The app provides accurate and relevant search results with photos, descriptions, and reviews.
+
+19.	As a traveler, I want to be able to book a specific accommodation for my desired dates.
+Acceptance criteria:
+ 	The travel booking website or app provides a user-friendly booking form with clear instructions and error messages.
+ 	The app allows the user to select their desired dates, room type, and number of guests.
+ 	The app provides a confirmation page with the total price, taxes, and fees, and a clear cancellation policy.
+
+20.	As a traveler, I want to be able to compare different accommodations based on their features and ratings.
+Acceptance criteria:
+ 	The travel booking website or app provides a user-friendly comparison tool with clear features and ratings.
+ 	The app allows the user to select up to 3 accommodations to compare side-by-side, with customizable features and filters.
+ 	The app provides a clear summary of the pros and cons of each accommodation and recommends the best option based on the user's preferences.
+
+21.	As a traveler, I want to be able to book a combination of accommodations, such as flights and hotels.
+Acceptance criteria:
+ 	The travel booking website or app provides a user-friendly booking form with clear instructions and error messages.
+ 	The app allows the user to select their desired flights, hotels, and other travel services, and combines them into a single itinerary.
+ 	The app provides a clear summary of the total price, taxes, and fees, and a clear cancellation policy for each service.
+
+22.	As a traveler, I want to be able to track my booking status and receive timely notifications.
+Acceptance criteria:
+ 	The travel booking website or app provides a user-friendly booking dashboard with clear status updates and alerts.
+ 	The app allows the user to view their booking details, itinerary, and payment history, and provides links to modify or cancel their bookings.
+ 	The app sends timely notifications via email, SMS, or push notifications for booking confirmations, changes, and reminders.
+23.	 As a traveler, I want to be able to view the location and nearby attractions of my booked accommodations.
+Acceptance criteria:
+ 	The travel booking website or app provides a user-friendly map feature with clear markers and filters.
+ 	The app allows the user to view the location and directions to their booked accommodations, as well as nearby attractions, restaurants, and transportation options.
+ 	The app provides accurate and up-to-date information and reviews for each location.
+
+24.	As a traveler, I want to be able to cancel or modify my booking in case of changes or emergencies.
+
+Acceptance criteria:
+ 	The travel booking website or app provides a user-friendly cancellation or modification form with clear instructions and fees.
+ 	The app allows the user to cancel or modify their booking up to a certain deadline or under specific conditions, such as force majeure or medical reasons.
+ 	The app provides a clear summary of the refund policy, cancellation fees, and alternative options.
+
+25.	As a traveler, I want to be able to leave a review or rating for my booked accommodations.
+
+Acceptance criteria:
+ 	The travel booking website or app provides a user-friendly review form with clear guidelines and validation rules.
+ 	The app allows the user to rate and comment on their booked accommodations.

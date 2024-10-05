@@ -1,0 +1,71 @@
+User stories for invoice generate for purchase
+219. As a small business owner, I want to generate an invoice for the products I purchased from a supplier, so that I can keep track of my expenses and pay the supplier on time.
+Acceptance criteria:
+ 	The invoice generation should include the supplier's details, the purchase date, and the product details.
+ 	The invoice should display the total cost, including any applicable taxes and discounts.
+ 	The invoice should provide payment instructions and due date.
+ 	The invoice should be downloadable in PDF format.
+ 	The invoice should allow me to add notes or comments, if needed.
+220. As a freelancer, I want to generate an invoice for the services I provided to a client, so that I can get paid for my work.
+Acceptance criteria:
+ 	The invoice generation should include the client's details, the service date, and the service details.
+ 	The invoice should display the hourly rate or project fee, and the total amount due.
+ 	The invoice should provide payment instructions and due date.
+ 	The invoice should be customizable with my logo and branding.
+ 	The invoice should allow me to track payment status and send reminders, if needed.
+221. As an online shopper, I want to generate an invoice for the products I purchased from an e-commerce website, so that I can keep track of my orders and return items if necessary.
+Acceptance criteria:
+ 	The invoice generation should include the website's details, the order date, and the product details.
+ 	The invoice should display the total cost, including shipping and taxes.
+ 	The invoice should provide order and tracking information.
+ 	The invoice should be downloadable in PDF format.
+ 	The invoice should allow me to request returns or refunds, if needed.
+222. As a contractor, I want to generate an invoice for the services I provided to a client, so that I can bill them for my work and get paid for my time.
+Acceptance criteria:
+ 	The invoice generation should include the client's details, the service date, and the service details.
+ 	The invoice should display the hourly rate or project fee, and the total amount due.
+ 	The invoice should provide payment instructions and due date.
+ 	The invoice should be customizable with my logo and branding.
+ 	The invoice should allow me to track payment status and send reminders, if needed.
+223.As a nonprofit organization, I want to generate an invoice for the donations we received from our supporters, so that we can keep track of our fundraising efforts and issue tax receipts.
+Acceptance criteria:
+ 	The invoice generation should include the donor's details, the donation date, and the donation details.
+ 	The invoice should display the donation amount and any applicable taxes or fees.
+ 	The invoice should provide instructions for tax receipt issuance.
+ 	The invoice should be downloadable in PDF format.
+ 	The invoice should allow us to add thank-you messages or updates.
+224. As a retailer, I want to generate an invoice for the products I purchased from a supplier, so that I can verify the order and reconcile the payment.
+Acceptance criteria:
+ 	The invoice generation should include the supplier's details, the purchase date, and the product details.
+ 	The invoice should display the total cost, including any applicable taxes and discounts.
+ 	The invoice should provide payment instructions and due date.
+ 	The invoice should be downloadable in PDF format.
+ 	The invoice should allow me to reconcile it with the purchase order and payment records.
+225. As a service provider, I want to generate an invoice for the monthly subscription fee my client pays, so that I can confirm the payment and keep track of their account status.
+Acceptance criteria:
+ 	The invoice generation should include the client's details, the subscription period, and the subscription details.
+ 	The invoice should display the subscription fee and any applicable taxes or fees.
+ 	The invoice should provide payment instructions and due date.
+ 	The invoice should be customizable with my logo and branding.
+ 	The invoice should allow me to track payment status and send reminders, if needed.
+226. As a landlord, I want to generate an invoice for the rent payment my tenant makes, so that I can confirm the payment and keep track of their account status.
+Acceptance criteria:
+ 	The invoice generation should include the tenant's details, the rental period, and the rental details.
+ 	The invoice should display the rent amount and any applicable fees or charges.
+ 	The invoice should provide payment instructions and due date.
+ 	The invoice should be customizable with my logo and branding.
+ 	The invoice should allow me to track payment status and send reminders, if needed.
+227. As a consultant, I want to generate an invoice for the project I completed for a client, so that I can bill them for my services and get paid for my work.
+Acceptance criteria:
+ 	The invoice generation should include the client's details, the project date, and the project details.
+ 	The invoice should display the hourly rate or project fee, and the total amount due.
+ 	The invoice should provide payment instructions and due date.
+ 	The invoice should be customizable with my logo and branding.
+ 	The invoice should allow me to track payment status and send reminders, if needed.
+228. As a homeowner, I want to generate an invoice for the repair services I received from a contractor, so that I can verify the work and make payment.
+Acceptance criteria:
+ 	The invoice generation should include the contractor's details, the repair date, and the repair details.
+ 	The invoice should display the total cost, including any applicable taxes and fees.
+ 	The invoice should provide payment instructions and due date.
+ 	The invoice should be downloadable in PDF format.
+ 	The invoice should allow me to verify the work performed and reconcile the payment with my records.

@@ -1,0 +1,48 @@
+User stories for online Grocery Shopping
+210. As a user, I want to be able to easily browse through different categories of groceries such as fruits, vegetables, dairy products, etc. and add items to my cart.
+Acceptance criteria:
+ 	The website/app should have clear and organized categories for different types of groceries.
+ 	Users should be able to easily navigate between different categories and subcategories.
+ 	Users should be able to add items to their cart with just a few clicks.
+211. As a user, I want to be able to search for specific items using keywords, so that I can easily find what I'm looking for.
+Acceptance criteria:
+ 	The website/app should have a search bar that allows users to enter keywords related to the item they are looking for.
+ 	The search results should be accurate and relevant to the keywords entered by the user.
+ 	Users should be able to easily add items to their cart from the search results page.
+212. As a user, I want to be able to view detailed information about each item, such as nutritional information, price per unit, etc.
+Acceptance criteria:
+
+ 	The website/app should display detailed information about each item, including nutritional information, ingredients, price per unit, etc.
+ 	The information should be easy to read and understand.
+ 	Users should be able to access this information with just a few clicks.
+213. As a user, I want to be able to view my cart and checkout when I'm ready to purchase my groceries.
+Acceptance criteria:
+ 	The website/app should display a clear and organized view of the user's cart, including the total price and quantity of each item.
+ 	Users should be able to easily remove items from their cart or change the quantity of an item.
+ 	Users should be able to securely checkout when they are ready to purchase their groceries.
+214. As a user, I want to be able to select a delivery time that is convenient for me.
+Acceptance criteria:
+ 	The website/app should display available delivery times and dates based on the user's location.
+ 	Users should be able to easily select a delivery time that works for them.
+ 	The delivery time should be confirmed and displayed to the user before they checkout.
+215. As a user, I want to be able to save my shopping cart for later.
+Acceptance criteria:
+ 	The website/app should allow users to save their shopping cart for future use.
+ 	The saved cart should be accessible from any device or browser that the user is logged in to.
+ 	Users should be able to easily load a saved cart and make changes to it before checking out.
+216. As a user, I want to be able to track my order status and delivery.
+Acceptance criteria:
+ 	The website/app should provide real-time updates on the status of the user's order, including when it has been picked, packed, and shipped.
+ 	Users should be able to easily track their order and view the estimated delivery time.
+ 	The delivery status should be updated in real-time.
+217. As a user, I want to be able to easily reorder items that I have previously purchased.
+Acceptance criteria:
+ 	The website/app should display a list of the user's past orders and the items that were purchased in each order.
+ 	Users should be able to easily add items from past orders to their cart.
+ 	The reordering feature should save users time and make it easy to purchase items they frequently buy.
+218. As a user, I want to be able to easily cancel or modify my order if necessary.
+Acceptance criteria:
+
+ 	The website/app should allow users to cancel or modify their order up until a certain point before delivery.
+ 	Users should be able to easily make changes to their order, such as adding or removing items or changing the delivery time.
+ 	The cancellation and modification process should be clear and easy to follow.

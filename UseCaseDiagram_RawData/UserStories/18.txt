@@ -1,0 +1,43 @@
+User stories for Planning a wedding
+
+26.	As a bride or groom, I want to be able to create a wedding checklist and timeline to keep track of all the tasks and deadlines.
+Acceptance criteria:
+ 	The wedding planning website or app provides a user-friendly checklist and timeline feature with clear categories and sub-tasks.
+ 	The app allows the user to add or remove tasks, set deadlines and reminders, and mark them as completed or postponed.
+ 	The app provides a clear summary of the progress and upcoming tasks, and allows the user to share or print the checklist.
+
+27.	As a bride or groom, I want to be able to search for and book wedding venues and vendors.
+Acceptance criteria:
+ 	The wedding planning website or app provides a user-friendly search and booking feature with clear categories and filters.
+ 	The app allows the user to search for and compare wedding venues, photographers, caterers, florists, DJs, and other vendors based on location, availability, pricing, and reviews.
+ 	The app provides a clear booking form with terms and conditions, payment options, and cancellation policy.
+
+28.	As a bride or groom, I want to be able to design and customize my wedding website and invitations.
+Acceptance criteria:
+ 	The wedding planning website or app provides a user-friendly website builder and invitation designer with clear templates and themes.
+ 	The app allows the user to customize the colors, fonts, layout, and content of their wedding website and invitations, and preview them before publishing or sending.
+ 	The app provides a clear RSVP and guest management feature, with reminders, dietary preferences, and other details.
+
+29.	As a bride or groom, I want to be able to create and share my wedding registry.
+Acceptance criteria:
+ 	The wedding planning website or app provides a user-friendly registry builder and gift tracker with clear categories and preferences.
+ 	The app allows the user to add or remove items, set priorities and quantities, and track the gift status and thank-you notes.
+ 	The app provides a clear sharing and notification feature, with options for privacy and shipping.
+
+30.	As a bride or groom, I want to be able to manage my wedding budget and expenses.
+Acceptance criteria:
+ 	The wedding planning website or app provides a user-friendly budget tracker and expense manager with clear categories and estimates.
+ 	The app allows the user to set and adjust their budget, track their expenses, and compare them with their planned budget.
+ 	The app provides a clear report and analysis of their spending patterns and suggestions for cost-saving options.
+
+31.	As a bride or groom, I want to be able to plan and schedule my wedding ceremony and reception.
+Acceptance criteria:
+ 	The wedding planning website or app provides a user-friendly planner and scheduler with clear options and details.
+ 	The app allows the user to select and customize their ceremony and reception venues, decorations, music, seating, and other details.
+ 	The app provides a clear timeline and flowchart of the wedding day events, with contingency plans and backup options.
+
+32.	As a bride or groom, I want to be able to collaborate and communicate with my wedding party and guests.
+Acceptance criteria:
+ 	The wedding planning website or app provides a user-friendly collaboration and communication feature with clear roles and permissions.
+ 	The app allows the user to invite and manage their wedding party and guests, assign tasks and responsibilities, and share updates and messages.
+ 	The app provides a clear forum and chat room for discussions and feedback, with moderation and privacy settings.

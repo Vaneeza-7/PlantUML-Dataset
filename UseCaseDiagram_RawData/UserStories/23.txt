@@ -1,0 +1,40 @@
+User stories for fitness tracker
+63. As a user, I want to be able to set up a profile so that the app can track my progress.
+Acceptance Criteria: 
+ 	The app should prompt the user to enter basic information like height, weight, age, and gender. 
+ 	The user should be able to edit their profile information at any time.
+64. As a user, I want to track my daily steps so that I can monitor my physical activity.
+Acceptance Criteria: 
+ 	The app should be able to track the user's steps automatically, or allow the user to manually input their step count. 
+ 	The user should be able to view their daily step count and track their progress over time.
+65. As a user, I want to set goals for my physical activity so that I can work towards achieving them.
+Acceptance Criteria: 
+ 	The app should allow the user to set daily, weekly, or monthly goals for steps, distance, or time spent exercising.
+ 	The app should display progress towards the user's goals and provide alerts when goals are achieved.
+66. As a user, I want to track my workouts so that I can monitor my progress and improve my fitness.
+Acceptance Criteria: 
+ 	The app should allow the user to log different types of workouts (e.g. running, weight lifting, yoga) and record details such as duration, distance, calories burned, and heart rate.
+ 	The user should be able to view their workout history and track their progress over time.
+67. As a user, I want to track my nutrition so that I can monitor my calorie intake and make healthy choices.
+Acceptance Criteria: 
+ 	The app should allow the user to log their meals and snacks and record details such as calories, macronutrients, and micronutrients.
+ 	The app should provide recommendations for healthy eating based on the user's goals and preferences.
+
+68.As a user, I want to connect with friends and other users so that I can stay motivated and share my progress.
+Acceptance Criteria: 
+ 	The app should allow the user to connect with friends and other users through social media or in-app messaging. 
+ 	The app should provide a leaderboard or other gamification features to encourage friendly competition and motivate users to achieve their goals.
+69. As a user, I want to receive personalized recommendations for workouts and nutrition so that I can achieve my goals more effectively.
+Acceptance Criteria: 
+ 	The app should provide personalized recommendations based on the user's profile, goals, and progress.
+ 	The app should suggest workouts and meal plans that are tailored to the user's preferences and fitness level.
+
+70. As a user, I want to be able to sync my fitness data with other apps and devices so that I can have a comprehensive view of my health.
+Acceptance Criteria: 
+ 	The app should be able to sync with other fitness apps and devices (e.g. Fitbit, Apple Health) to collect data on the user's physical activity, heart rate, and sleep. 
+ 	The user should be able to view their data from multiple sources in one place.
+
+71.As a user, I want to be able to set reminders for my workouts and meals so that I can stay on track with my fitness goals.
+Acceptance Criteria: 
+ 	The app should allow the user to set reminders for their workouts and meals. 
+ 	The app should send push notifications or emails to remind the user to exercise or eat at specific times.

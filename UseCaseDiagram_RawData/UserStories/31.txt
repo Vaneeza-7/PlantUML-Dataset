@@ -1,0 +1,45 @@
+User stories for Car Rental
+135. As a user, I want to be able to easily search for available rental cars in my desired location and time period.
+Acceptance Criteria:
+ 	The search function should allow me to input my desired pickup and drop-off location and date/time.
+ 	The search function should display a list of available rental cars with relevant details such as make, model, price, and availability.
+136. As a user, I want to be able to filter my search results based on specific criteria such as car type, transmission, and fuel type.
+Acceptance Criteria:
+ 	The filter options should be prominently displayed and easy to use.
+ 	The filter options should allow me to select specific criteria such as car type, transmission, fuel type, and other relevant features.
+ 	The filter options should update the search results in real-time as I make my selections.
+137. As a user, I want to be able to view detailed information about the rental car, including its features, mileage, and any additional fees.
+Acceptance Criteria:
+ 	The rental car information should be clearly displayed and easy to understand.
+ 	The rental car information should include relevant details such as features, mileage, and any additional fees.
+ 	The rental car information should be accompanied by high-quality images of the car.
+138. As a user, I want to be able to easily book a rental car and receive confirmation of my reservation.
+Acceptance Criteria:
+ 	The booking process should be easy to follow and include clear instructions for entering my personal and payment information.
+ 	The booking process should display the total cost of my rental, including any additional fees.
+ 	I should receive a confirmation email with the details of my rental reservation.
+139. As a user, I want to be able to modify or cancel my rental reservation if needed.
+Acceptance Criteria:
+ 	The website should allow me to modify or cancel my reservation easily from my account dashboard.
+ 	The website should clearly state the cancellation and modification policy.
+ 	I should receive a confirmation email if I modify or cancel my reservation.
+140. As a user, I want to be able to view and print my rental agreement and receipt.
+Acceptance Criteria:
+ 	The website should allow me to access my rental agreement and receipt from my account dashboard.
+ 	The rental agreement and receipt should be easy to understand and clearly display all relevant information.
+ 	The rental agreement and receipt should be available to print or download as needed.
+141. As a user, I want to be able to add additional drivers to my rental agreement.
+Acceptance Criteria:
+ 	The website should allow me to add additional drivers to my rental agreement easily.
+ 	The website should clearly state any additional fees associated with adding drivers.
+ 	The additional drivers should meet the rental company's driver requirements.
+142. As a user, I want to be able to pick up and drop off my rental car easily and quickly.
+Acceptance Criteria:
+ 	The rental car pickup and drop-off location should be clearly stated in the rental agreement and confirmation email.
+ 	The rental car pickup and drop-off process should be clearly explained and easy to follow.
+ 	The rental car should be clean, well-maintained, and ready for pickup at the designated time.
+143. As a user, I want to be able to report any issues with the rental car during my rental period.
+Acceptance Criteria:
+ 	The website should provide clear instructions for reporting any issues with the rental car.
+ 	The rental company should have a 24/7 customer support line for reporting any issues.
+ 	The rental company should provide a replacement rental car if the reported issue cannot be resolved in a timely manner.

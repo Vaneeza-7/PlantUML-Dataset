@@ -1,0 +1,48 @@
+User stories for Creating a social media account
+173. As a user, I want to create a new social media account using my email address.
+Acceptance criteria:
+ 	User must enter a valid email address.
+ 	User must choose a strong password that meets the platform's criteria for length and complexity.
+ 	User must agree to the platform's terms of service and privacy policy.
+ 	User must receive a verification email and follow the steps to verify their account.
+174. As a user, I want to create a new social media account using my phone number.
+Acceptance criteria:
+ 	User must enter a valid phone number.
+ 	User must verify their phone number via a text message or phone call.
+ 	User must choose a strong password that meets the platform's criteria for length and complexity.
+ 	User must agree to the platform's terms of service and privacy policy.
+175. As a user, I want to sign up for a social media account using my existing Google or Facebook account.
+Acceptance criteria:
+ 	User must be able to sign in to their Google or Facebook account.
+ 	User must grant the platform access to their basic profile information.
+ 	User must agree to the platform's terms of service and privacy policy.
+176. As a user, I want to create a social media account with a unique username.
+Acceptance criteria:
+ 	User must choose a unique username that is not already taken.
+ 	Username must meet the platform's criteria for length and characters allowed.
+177. As a user, I want to upload a profile picture when creating my social media account.
+Acceptance criteria:
+ 	User must be able to upload a profile picture in a supported file format.
+ 	Profile picture must meet the platform's criteria for size and resolution.
+178. As a user, I want to provide basic information about myself when creating my social media account.
+Acceptance criteria:
+ 	User must be able to enter their first and last name, date of birth, and gender.
+ 	User must have the option to skip this step if they choose not to provide this information.
+179. As a user, I want to connect with my friends when creating my social media account.
+Acceptance criteria:
+ 	User must be able to search for and connect with friends using their email address, phone number, or username.
+ 	User must have the option to skip this step if they choose not to connect with friends at this time.
+180. As a user, I want to choose my language preference when creating my social media account.
+Acceptance criteria:
+ 	User must be able to choose their preferred language from a list of supported languages.
+ 	Platform must display all text in the selected language.
+181. As a user, I want to choose my privacy settings when creating my social media account.
+Acceptance criteria:
+ 	User must be able to choose who can see their profile and posts (public, friends only, etc.).
+ 	User must be able to choose whether to allow search engines to index their profile.
+ 	User must be able to choose whether to receive email notifications from the platform.
+182. As a user, I want to be able to easily delete my social media account if I decide to leave the platform.
+Acceptance criteria:
+ 	User must be able to find the option to delete their account easily.
+ 	User must receive confirmation that their account will be permanently deleted.
+ 	User must have the option to change their mind and reactivate their account within a certain period of time (e.g. 30 days).

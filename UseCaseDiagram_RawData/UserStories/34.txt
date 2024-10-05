@@ -1,0 +1,40 @@
+User stories for E-book Reading
+163. As a user, I want to be able to easily browse through my collection of e-books so that I can quickly find the book I want to read. 
+Acceptance criteria: 
+ 	The app should provide a user-friendly interface that allows for easy navigation and sorting of books based on various criteria such as title, author, genre, etc.
+
+164. As a user, I want to be able to customize the reading experience to my preferences so that I can enjoy reading in a way that suits me best. 
+Acceptance criteria: 
+ 	The app should provide customizable options for font size, background color, font type, spacing, and margin size.
+
+165. As a user, I want to be able to highlight and take notes on passages so that I can easily refer back to them later.
+ Acceptance criteria: 
+The app should allow for highlighting and note-taking functionality, with the ability to easily search and access these annotations.
+
+166. As a user, I want to be able to track my progress through a book so that I know how much I have read and how much I have left.
+ Acceptance criteria: 
+ 	The app should provide a progress bar or percentage tracker that updates as the user reads.
+
+167. As a user, I want to be able to sync my e-books across devices so that I can pick up where I left off on any device. 
+Acceptance criteria:
+ 	The app should allow for seamless syncing across devices, with bookmarks and progress tracking carried over.
+
+168. As a user, I want to be able to access a wide variety of e-books so that I can discover new titles and authors.
+ Acceptance criteria:
+ 	The app should have a large and diverse library of e-books that includes both classic and contemporary titles.
+
+169. As a user, I want to be able to adjust the brightness of my screen so that I can read comfortably in any lighting conditions.
+ Acceptance criteria:
+ 	The app should allow for adjusting screen brightness with ease, either manually or automatically based on ambient light.
+
+170. As a user, I want to be able to search for specific words or phrases within a book so that I can quickly find information. 
+Acceptance criteria: 
+ 	The app should provide a robust search functionality that allows for searching within a book, with the ability to refine searches based on specific criteria.
+
+171. As a user, I want to be able to download e-books for offline reading so that I can read without an internet connection. 
+Acceptance criteria: 
+The app should allow for downloading e-books for offline reading, with the ability to manage downloaded books and delete them when no longer needed.
+
+172. As a user, I want to be able to share my reading experience with others so that I can discuss books and recommendations with friends and family. 
+Acceptance criteria:
+ 	The app should allow for easy sharing of books, reviews, and annotations with others through social media or other sharing platforms.

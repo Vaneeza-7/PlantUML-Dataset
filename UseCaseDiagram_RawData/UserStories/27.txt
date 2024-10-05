@@ -1,0 +1,45 @@
+100. As a customer, I want to be able to view my account balance online so that I can keep track of my finances.
+Acceptance Criteria:
+ 	The customer should be able to view their account balance on the online banking portal.
+ 	The balance should be updated in real-time.
+ 	The balance should be displayed in the customerâ€™s preferred currency.
+101. As a customer, I want to be able to transfer money to other accounts online so that I can make payments and transfers easily.
+Acceptance Criteria:
+ 	The customer should be able to transfer money to other accounts using the online banking portal.
+ 	The transfer should be completed in real-time.
+ 	The customer should receive a confirmation once the transfer is complete.
+102. As a customer, I want to be able to view my transaction history online so that I can keep track of my spending.
+Acceptance Criteria:
+ 	The customer should be able to view their transaction history on the online banking portal.
+ 	The transaction history should include all transactions made from the account.
+ 	The transaction history should be displayed in the customerâ€™s preferred currency.
+103. As a customer, I want to be able to deposit checks online so that I donâ€™t have to go to a physical branch.
+Acceptance Criteria:
+ 	The customer should be able to deposit checks using the online banking portal.
+ 	The check should be processed within a reasonable timeframe.
+ 	The customer should receive a confirmation once the check has been processed.
+104. As a customer, I want to be able to pay my bills online so that I donâ€™t have to go to a physical branch or send a check.
+Acceptance Criteria:
+ 	The customer should be able to pay their bills using the online banking portal.
+ 	The payment should be completed in real-time.
+ 	The customer should receive a confirmation once the payment is complete.
+105. As a customer, I want to be able to set up recurring payments online so that I donâ€™t have to manually make payments every month.
+Acceptance Criteria:
+ 	The customer should be able to set up recurring payments using the online banking portal.
+ 	The recurring payment should be processed automatically on the scheduled date.
+ 	The customer should be able to modify or cancel the recurring payment at any time.
+106. As a customer, I want to be able to view my account statements online so that I can keep track of my finances.
+Acceptance Criteria:
+ 	The customer should be able to view their account statements on the online banking portal.
+ 	The account statement should include all transactions made during the statement period.
+ 	The account statement should be displayed in the customerâ€™s preferred currency.
+107. As a customer, I want to be able to apply for loans online so that I donâ€™t have to go to a physical branch.
+Acceptance Criteria:
+ 	The customer should be able to apply for loans using the online banking portal.
+ 	The loan application should be processed within a reasonable timeframe.
+ 	The customer should receive a confirmation once the loan application has been processed.
+107. As a customer, I want to be able to set up account alerts online so that I can receive notifications about my account activity.
+Acceptance Criteria:
+ 	The customer should be able to set up account alerts using the online banking portal.
+ 	The account alert should be triggered based on the customerâ€™s preferences.
+ 	The customer should be able to modify or cancel the account alert at any time.

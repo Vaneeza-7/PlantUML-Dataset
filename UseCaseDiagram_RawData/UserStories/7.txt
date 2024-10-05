@@ -1,0 +1,20 @@
+121.As a patient, I want to be able to search for doctors by their specialty and availability, so that I can easily find and schedule an appointment with the right healthcare professional.
+122.As a patient, I want to be able to view my upcoming appointments, so that I can plan my schedule accordingly.
+123.As a patient, I want to be able to cancel or reschedule appointments online, so that I can adjust my schedule as needed.
+124.As a patient, I want to be able to receive reminders and notifications about my upcoming appointments, so that I don't forget or miss them.
+125.As a patient, I want to be able to provide feedback on my experience with the healthcare professional, so that the hospital can improve their services.
+126.As a healthcare professional, I want to be able to view and manage my appointment schedule, so that I can plan my workday and avoid scheduling conflicts.
+127.As a healthcare professional, I want to be able to access patient information and medical history, so that I can provide personalized care.
+128.As a healthcare professional, I want to be able to easily communicate with patients about their appointments and medical conditions, so that we can establish a good doctor-patient relationship.
+129.As a hospital administrator, I want to be able to generate reports on appointment statistics and patient satisfaction, so that I can evaluate and improve the hospital's services.
+130.As a hospital administrator, I want to be able to manage and track the availability of healthcare professionals, so that I can ensure that there are enough staff members to meet patient demand.
+131.As a patient, I want to be able to see the availability of medical facilities (e.g. X-ray machines), so that I can plan for any diagnostic tests in advance.
+132.As a patient, I want to be able to view my medical test reports and prescription history online, so that I can easily track my health progress.
+133.As a healthcare professional, I want to be able to request lab tests and scans, so that I can diagnose and treat patients effectively.
+134.As a healthcare professional, I want to be able to review medical test results and prescribe medications online, so that I can provide efficient care.
+135.As a patient, I want to be able to make online payments for medical services and treatments, so that I can avoid long wait times at the hospital.
+136.As a patient, I want to be able to download and print my medical records, so that I can have a copy for personal reference or for other healthcare professionals.
+137.As a healthcare professional, I want to be able to add notes to patient medical records, so that I can document important information and provide continuity of care.
+138.As a patient, I want to be able to schedule follow-up appointments with healthcare professionals, so that I can continue to receive treatment and care.
+139.As a hospital administrator, I want to be able to manage and track the inventory of medical supplies and equipment, so that we can ensure that we have enough supplies to meet patient demand.
+140.As a healthcare professional, I want to be able to access training materials and resources online, so that I can continue to improve my skills and knowledge.

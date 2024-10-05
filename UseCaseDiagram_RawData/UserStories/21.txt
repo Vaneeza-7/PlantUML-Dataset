@@ -1,0 +1,40 @@
+User stories for Creating a social media account 
+47. As a new user, I want to create a social media account so that I can connect with friends and family online.
+Acceptance Criteria:
+ 	User should be able to sign up for an account using their email address or mobile number.
+ 	User should be prompted to create a unique username and password for their account.
+ 	User should receive a confirmation email or SMS message to verify their account.
+
+48.	As a user, I want to be able to add my personal information to my social media account, such as my name and profile picture.
+Acceptance Criteria:
+ 	User should be able to access their account settings to add or edit their personal information.
+ 	User should be able to upload a profile picture or choose one from their device.
+ 	User should be able to enter their name and other relevant information, such as their date of birth or location.
+49. As a user, I want to be able to connect with other users on the social media platform, such as by following them or sending them friend requests.
+Acceptance Criteria:
+ 	User should be able to search for other users by their username or name.
+ 	User should be able to follow or unfollow other users.
+ 	User should be able to send friend requests to other users.
+
+1.	As a user, I want to be able to create posts on my social media account, such as status updates or photos.
+Acceptance Criteria:
+ 	User should be able to access the post creation interface from their profile page.
+ 	User should be able to add text and/or media to their post, such as a photo or video.
+ 	User should be able to set the privacy settings for their post, such as making it visible to everyone or only to their friends.
+
+
+51. As a user, I want to be able to view posts from other users on the social media platform.
+Acceptance Criteria:
+ 	User should be able to view posts from users they follow on their home feed.
+ 	User should be able to search for specific posts or users.
+ 	User should be able to filter posts by certain criteria, such as by date or by user.
+52. As a user, I want to be able to react to posts on the social media platform, such as by liking or commenting on them.
+Acceptance Criteria:
+ 	User should be able to see the reactions of other users on posts.
+ 	User should be able to like a post by clicking a button or tapping on the post.
+ 	User should be able to leave a comment on a post by typing a message and submitting it.
+53. As a user, I want to be able to receive notifications when other users interact with my posts or account.
+Acceptance Criteria:
+ 	User should be able to customize their notification settings to choose what types of notifications they receive.
+ 	User should receive a notification when someone likes or comments on one of their posts.
+ 	User should receive a notification when someone sends them a friend request or follows them.

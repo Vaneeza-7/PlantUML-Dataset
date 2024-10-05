@@ -1,0 +1,31 @@
+User stories for Weather Alert
+115. As a user, I want to receive weather alerts for my current location to stay informed about severe weather conditions.
+Acceptance criteria: 
+ 	The weather alerts should be accurate and timely, based on real-time data from reliable sources.
+116. As a user, I want to receive weather alerts for specific locations that I select, such as my workplace or a vacation destination.
+Acceptance criteria: 
+ 	The weather alerts should be customizable to allow users to select specific locations and receive alerts for those areas.
+117. As a user, I want to receive weather alerts via push notifications on my mobile device.
+Acceptance criteria: 
+ 	The weather alerts should be delivered as push notifications that are clear, concise, and easy to read.
+118. As a user, I want to receive weather alerts via email, in case I miss the push notification.
+Acceptance criteria: 
+ 	The weather alerts should be sent via email to ensure that users receive the alerts even if they miss the push notification.
+119. As a user, I want to receive weather alerts that include details about the severity of the weather condition and any precautions I should take.
+Acceptance criteria: 
+ 	The weather alerts should include clear and detailed information about the severity of the weather condition, as well as any safety precautions that users should take.
+120. As a user, I want to receive weather alerts that are specific to my needs, such as alerts for extreme heat or cold.
+Acceptance criteria: 
+ 	The weather alerts should be customizable to allow users to receive alerts for specific weather conditions that are relevant to their needs.
+121. As a user, I want to receive weather alerts that are accessible and user-friendly for people with disabilities.
+Acceptance criteria: 
+ 	The weather alerts should be accessible to people with disabilities, with options such as text-to-speech and larger font sizes.
+122. As a user, I want to receive weather alerts that are available in multiple languages.
+Acceptance criteria: 
+ 	The weather alerts should be available in multiple languages to accommodate users who speak languages other than English.
+123. As a user, I want to receive weather alerts that include details about the duration of the weather condition and any changes in severity.
+Acceptance criteria: 
+ 	The weather alerts should include information about the expected duration of the weather condition, as well as any changes in severity that may occur.
+124. As a user, I want to receive weather alerts that are reliable and trustworthy, with accurate information and updates.
+Acceptance criteria: 
+ 	The weather alerts should come from a reliable source, with accurate and up-to-date information about the weather conditions.

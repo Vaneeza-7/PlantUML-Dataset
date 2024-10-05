@@ -1,0 +1,20 @@
+161.As a customer, I want to be able to search for specific medications by name or category, so that I can quickly find what I need.
+162.As a customer, I want to be able to see detailed information about each medication, including dosage, side effects, and possible interactions, so that I can make informed decisions about my purchase.
+163.As a customer, I want to be able to create a personal account to store my order history and payment information, so that I can easily reorder medications in the future.
+164.As a customer, I want to be able to receive alerts when my medication is running low, so that I can reorder before I run out.
+165.As a customer, I want to be able to compare prices and reviews for different medications, so that I can make an informed purchase decision.
+166.As a customer, I want to be able to see the availability of each medication in real-time, so that I can determine whether it is currently in stock.
+167.As a customer, I want to be able to track the status of my order, including shipping and delivery information, so that I can plan accordingly.
+168.As a customer, I want to be able to select different shipping options, including express and overnight delivery, so that I can receive my medications as quickly as possible.
+169.As a customer, I want to be able to receive reminders about taking my medication, including dosage instructions and potential side effects.
+170.As a customer, I want to be able to easily cancel or modify an order, so that I can make changes as needed.
+171.As a customer, I want to be able to receive personalized recommendations for medications based on my health history and current conditions.
+172.As a customer, I want to be able to leave feedback and reviews for medications, so that others can benefit from my experience.
+173.As a pharmacist, I want to be able to review and verify prescription orders before they are shipped, so that I can ensure their accuracy and safety.
+174.As a pharmacist, I want to be able to contact customers directly if there are any issues with their order, including questions about prescriptions and potential drug interactions.
+175.As a pharmacist, I want to be able to manage inventory levels and receive alerts when certain medications are running low, so that I can restock as needed.
+176.As a pharmacist, I want to be able to generate reports on medication orders and sales, so that I can monitor trends and make informed business decisions.
+177.As a pharmacist, I want to be able to communicate with doctors and other healthcare providers to clarify prescription orders and ensure patient safety.
+178.As a healthcare provider, I want to be able to access patient information and medication history, so that I can make informed decisions about prescribing medications.
+179.As a healthcare provider, I want to be able to easily submit prescription orders to the online pharmacy, so that my patients can receive their medications quickly and efficiently.
+180.As a healthcare provider, I want to be able to receive alerts if a patient has not picked up their medication or has reported any issues with their order, so that I can follow up with them as needed.

@@ -1,0 +1,35 @@
+ User stories for Shopping for a new car
+
+33.	As a prospective car buyer, I want to be able to search and compare different car models based on my preferences.
+Acceptance criteria:
+ 	The car shopping website or app provides a user-friendly search and comparison feature with clear filters and criteria.
+ 	The app allows the user to search for and compare car models based on their make, model, year, price, features, and specifications.
+ 	The app provides a clear summary of each car model's pros and cons, and allows the user to save or share their favorite models.
+
+34.	As a prospective car buyer, I want to be able to read reviews and ratings of different car models from other buyers and experts.
+Acceptance criteria:
+ 	The car shopping website or app provides a user-friendly review and rating feature with clear categories and criteria.
+ 	The app allows the user to read and write reviews and ratings of different car models based on their performance, reliability, safety, comfort, and other factors.
+ 	The app provides a clear summary of the average rating and number of reviews for each car model, and allows the user to filter and sort the reviews by relevance and credibility.
+
+35.	As a prospective car buyer, I want to be able to schedule a test drive and see the availability of different car models at nearby dealerships.
+Acceptance criteria:
+ 	The car shopping website or app provides a user-friendly test drive and dealership locator feature with clear options and criteria.
+ 	The app allows the user to schedule a test drive at a nearby dealership for a specific car model and time, and receive confirmation and reminders.
+ 	The app provides a clear map and directions to the selected dealership, and allows the user to see the availability of the selected car model and other similar models at nearby dealerships.
+
+36.	As a prospective car buyer, I want to be able to customize and configure the car model of my choice with different colors, trims, and options.
+Acceptance criteria:
+ 	The car shopping website or app provides a user-friendly customization and configuration feature with clear options and prices.
+ 	The app allows the user to select and preview different colors, trims, and options for the car model of their choice, and see the final price and financing options.
+ 	The app provides a clear summary of the selected configuration and its pros and cons, and allows the user to save or share it with a sales representative.
+37. As a prospective car buyer, I want to be able to get financing options and estimate my monthly payments based on my budget and credit score.
+Acceptance criteria:
+ 	The car shopping website or app provides a user-friendly financing and payment estimator feature with clear criteria and rates.
+ 	The app allows the user to fill out a financing application and get pre-approved financing options based on their budget and credit score.
+ 	The app provides a clear summary of the estimated monthly payments, interest rates, and total cost of ownership, and allows the user to compare and adjust the options.
+38. As a prospective car buyer, I want to be able to negotiate and finalize the price and financing terms with a sales representative.
+Acceptance criteria:
+ 	The car shopping website or app provides a user-friendly negotiation and agreement feature with clear terms and conditions.
+ 	The app allows the user to schedule and attend a meeting with a sales representative, discuss and negotiate the price and financing terms, and receive a final offer.
+ 	The app provides a clear summary of the final agreement and its details, and allows the user to sign and download the documents.

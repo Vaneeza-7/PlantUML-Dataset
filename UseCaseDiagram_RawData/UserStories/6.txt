@@ -1,0 +1,20 @@
+101.As a customer, I want to be able to search for products by keywords, category, or brand, so that I can find what I'm looking for quickly and easily
+102.As a customer, I want to be able to view product details, including price, description, images, and reviews, so that I can make an informed purchase decision
+103. As a customer, I want to be able to add products to my shopping cart, so that I can keep track of my purchases and continue shopping.
+104. As a customer, I want to be able to checkout and pay for my purchases using a variety of payment methods, such as credit cards, PayPal, and mobile payments.
+105.As a customer, I want to be able to track the status of my order, including shipping and delivery updates, so that I can plan accordingly.
+106.As a customer, I want to be able to leave feedback and reviews on products and the overall shopping experience, so that other customers can benefit from my experience.
+107.As a customer, I want to be able to save my payment and shipping information for future purchases, so that I can checkout more quickly and easily.
+108.As a customer, I want to be able to access my order history and track my purchase history, so that I can keep track of my past orders and reorder items if necessary.
+109.As a customer, I want to be able to receive recommendations for products based on my past purchases and browsing history, so that I can discover new items that I may be interested in.
+110.As a customer, I want to be able to easily return or exchange products, so that I can be satisfied with my purchases.
+111.As a customer, I want to be able to receive discounts and promotions, such as free shipping or percentage off, so that I can save money on my purchases.
+112.As a customer, I want to be able to contact customer support easily and receive timely responses to my inquiries and issues.
+113.As a customer, I want to be able to filter products by price range, color, size, and other attributes, so that I can find the products that meet my specific needs.
+114.As a customer, I want to be able to receive alerts and notifications on sales, new arrivals, and other updates, so that I can stay up to date on the latest offerings.
+115.As a customer, I want to be able to create and manage a wishlist of items that I'm interested in purchasing, so that I can easily find and purchase them later.
+116.As a customer, I want to be able to share products and my shopping experience with my friends and followers on social media, so that I can recommend products and the store to others.
+117.As an administrator, I want to be able to manage product listings, including adding, editing, and deleting products, so that the store is up to date and relevant.
+118.As an administrator, I want to be able to manage customer orders, including tracking and fulfilling orders, so that customers receive their purchases on time.
+119.As an administrator, I want to be able to manage customer reviews and feedback, including responding to comments and addressing concerns, so that the store has a positive reputation.
+120.As an administrator, I want to be able to monitor website traffic and sales data, so that I can make informed decisions about the store's operations and marketing strategies.

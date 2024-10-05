@@ -1,0 +1,51 @@
+User Story ID	Title	User Story
+US001	Login Functionality	As a user, I want to be able to log in securely to my banking account using my username and password.
+US002	Password Reset	As a user, I want the option to reset my password via email or security questions if I forget it.
+US003	Account Display	As a user, I want to see all my accounts accurately displayed upon logging into the application.
+US004	Balance Update	As a user, I want to be able to update my account balance accurately by performing transactions.
+US005	Transaction History	As a user, I want to view my transaction history chronologically and accurately.
+US006	Account Navigation	As a user, I want to seamlessly navigate between different types of accounts in the application.
+US007	Internal Transfer	As a user, I want to transfer funds between my own accounts within the bank securely.
+US008	Payment to Another Account	As a user, I want to make payments to other accounts within the same bank securely.
+US009	External Transfer	As a user, I want to initiate external transfers to other bank accounts securely.
+US010	Deposit Process	As a user, I want to deposit checks by taking photos using the mobile deposit feature.
+US011	Deposit Accuracy	As a user, I want to ensure the deposited amount reflects accurately in my account balance.
+US012	Image Quality	As a user, I want to test the quality of check images for readability and processing.
+US013	Low Balance Alert	As a user, I want to receive alerts when my account balance is low.
+US014	Transaction Notification	As a user, I want to receive notifications for large transactions on my account.
+US015	Custom Alerts	As a user, I want to set up custom alerts for specific account activities.
+US016	Multi-Factor Authentication	As a user, I want to test multi-factor authentication methods such as SMS codes or email codes.
+US017	Biometric Authentication	As a user, I want assurance that sensitive data such as passwords and transactions are encrypted.
+US018	Encryption	As a user, I want to verify fingerprint or facial recognition for login as part of biometric authentication.
+US019	Savings Goals	As a user, I want to set up savings goals and track my progress.
+US020	Spending Tracking	As a user, I want to test spending tracking and category assignment features.
+US021	Financial Insights	As a user, I want to verify the relevance and accuracy of financial insights provided by the application.
+US022	Accessing Support	As a user, I want to access customer support services through the app when needed.
+US023	Response Time	As a user, I want to check the response time and quality of support interactions.
+US024	Application Process	As a user, I want to apply for a loan or mortgage through the application.
+US025	Status Tracking	As a user, I want to track the status of my loan/mortgage applications accurately.
+US026	Payment Management	As a user, I want to manage existing loans or mortgages easily within the app.
+US027	Buying/Selling	As a user, I want to buy and sell stocks, mutual funds, or other investment products.
+US028	Transaction Accuracy	As a user, I want to verify that investment transactions are executed accurately.
+US029	Performance Tracking	As a user, I want to ensure accuracy in tracking investment performance metrics.
+US030	Recommendations	As a user, I want to receive personalized recommendations based on my financial activity.
+US031	Customization Settings	As a user, I want to customize settings within the application and ensure they are saved correctly.
+US032	Finding Locations	As a user, I want to locate nearby branches and ATMs accurately using the app.
+US033	Details Accuracy	As a user, I want to ensure branch and ATM details are correct, including operating hours and services.
+US034	Third-Party Integration	As a user, I want to verify smooth integration with connected financial services.
+US035	Data Synchronization	As a user, I want to test synchronization of data between the banking app and connected services.
+US036	Push Notifications	As a user, I want to receive push notifications for account activities.
+US037	Overdraft Protection	As a user, I want to request and manage overdraft protection for my accounts.
+US038	Update Contact Information	As a user, I want to easily update my contact information within the app.
+US039	Statement Viewing	As a user, I want to view and download statements for my accounts.
+US040	Card Management	As a user, I want to request and manage additional debit or credit cards.
+US041	Enrollment in Paperless Statements	As a user, I want to enroll in paperless statements and communications.
+US042	Recurring Payments	As a user, I want to set up recurring payments for bills or utilities.
+US043	Additional Banking Products	As a user, I want to apply for additional banking products such as savings accounts or CDs.
+US044	Interest Calculations	As a user, I want to verify the accuracy of interest calculations on my accounts.
+US045	Third-Party App Integration	As a user, I want to securely share my account information with third-party financial apps.
+US046	Automatic Transfers	As a user, I want to set up and manage automatic transfers between my accounts.
+US047	Fund Transfer Speed and Reliability	As a user, I want to test the speed and reliability of fund transfers between accounts.
+US048	Bill Payment Notifications	As a user, I want to receive notifications for upcoming bill payments.
+US049	Security Settings Update	As a user, I want to easily update my security settings such as password and security questions.
+US050	Feedback Submission	As a user, I want to provide feedback on the app's features and functionality to improve user experience.

@@ -1,0 +1,20 @@
+181.As a cricket fan, I want to be able to purchase tickets online, so that I can easily attend matches.
+182.As a cricket team manager, I want to be able to schedule and manage team practices and games, so that we can be prepared for upcoming matches.
+183.As a cricket player, I want to be able to track my personal statistics, such as runs scored and wickets taken, so that I can monitor my progress and improve my game.
+184.As a cricket coach, I want to be able to analyze player performance and provide feedback and advice, so that I can help them improve their skills.
+185.As a cricket fan, I want to be able to watch live streams of matches online, so that I can enjoy the game from anywhere.
+186.As a cricket team manager, I want to be able to recruit and manage team members, so that we can build a strong and competitive team.
+187.As a cricket player, I want to be able to communicate with my teammates and coaches, so that we can coordinate and plan effectively.
+188.As a cricket umpire, I want to be able to track and manage match scores and statistics, so that I can ensure a fair and accurate game.
+189.As a cricket team captain, I want to be able to communicate and strategize with my teammates during matches, so that we can make informed decisions and win.
+190.As a cricket fan, I want to be able to follow and engage with my favorite players and teams on social media, so that I can stay updated and connected.
+191.As a cricket team manager, I want to be able to manage player contracts and payments, so that we can ensure fair compensation and financial stability.
+192.As a cricket player, I want to be able to access training resources and tutorials, so that I can improve my skills and knowledge of the game.
+193.As a cricket coach, I want to be able to manage and plan team practices and drills, so that we can improve our skills and teamwork.
+194.As a cricket fan, I want to be able to purchase and wear official team merchandise, so that I can show my support for my favorite team.
+195.As a cricket team manager, I want to be able to track and manage team expenses, so that we can stay within budget and maximize resources.
+196.As a cricket player, I want to be able to receive injury treatment and rehabilitation support, so that I can recover and return to playing.
+197.As a cricket umpire, I want to be able to access and review video replays of critical decisions, so that I can make accurate calls.
+198.As a cricket team captain, I want to be able to review and analyze match data and statistics, so that I can make informed decisions and adjust strategies as needed.
+199.As a cricket fan, I want to be able to participate in online fantasy cricket leagues, so that I can compete and engage with other fans.
+200.As a cricket team manager, I want to be able to plan and execute team travel and logistics, so that we can arrive at matches on time and well-prepared. 

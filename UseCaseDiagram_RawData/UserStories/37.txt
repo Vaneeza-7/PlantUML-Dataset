@@ -1,0 +1,46 @@
+User stories for Job Recruiting
+192. As a recruiter, I want to be able to post job listings and manage applications from a single platform.
+Acceptance criteria:
+ 	Recruiters must be able to create and post job listings.
+ 	Applicants must be able to apply for jobs directly through the platform.
+ 	Recruiters must be able to manage applications and communicate with applicants through the platform.
+193. As a job seeker, I want to be able to search and apply for jobs on a user-friendly platform.
+Acceptance criteria:
+ 	Job seekers must be able to search for jobs by location, job title, and other relevant criteria.
+ 	Job seekers must be able to apply for jobs with their resume and cover letter.
+ 	Job seekers must be able to track their application status.
+194. As a recruiter, I want to be able to view resumes and cover letters in a user-friendly format.
+Acceptance criteria:
+ 	Resumes and cover letters must be displayed in a clear and organized manner.
+ 	Recruiters must be able to filter and sort applications based on relevant criteria.
+ 	Recruiters must be able to leave notes and feedback on applications.
+195.As a job seeker, I want to be able to receive job recommendations and alerts.
+Acceptance criteria:
+ 	The platform must be able to recommend jobs based on the job seeker's skills and preferences.
+ 	Job seekers must be able to receive alerts when new jobs matching their criteria are posted.
+ 	The platform must be able to provide personalized feedback to help job seekers improve their chances of getting hired.
+196. As a recruiter, I want to be able to manage job listings and applications efficiently.
+Acceptance criteria:
+ 	Recruiters must be able to edit and update job listings as needed.
+ 	Recruiters must be able to track and manage the progress of applications.
+ 	Recruiters must be able to collaborate with other team members on job listings and applications.
+197. As a job seeker, I want to be able to research companies and read reviews from other employees.
+Acceptance criteria:
+ 	The platform must have information on companies, such as their history, culture, and employee benefits.
+ 	Job seekers must be able to read reviews from other employees and get a sense of the company's culture and work environment.
+ 	Job seekers must be able to ask questions and get answers from current or former employees.
+198. As a recruiter, I want to be able to assess candidates' skills and qualifications.
+Acceptance criteria:
+ 	The platform must have tools for assessing candidates' skills, such as coding challenges or personality tests.
+ 	Recruiters must be able to view candidates' resumes and cover letters.
+ 	Recruiters must be able to conduct interviews through the platform.
+199. As a job seeker, I want to be able to receive feedback and guidance on my job search.
+Acceptance criteria:
+ 	The platform must provide personalized feedback on job applications and interviews.
+ 	Job seekers must be able to access resources and tools to help them improve their job search skills.
+ 	Job seekers must be able to connect with career coaches or mentors for guidance.
+200. As a recruiter, I want to be able to make offers and negotiate with candidates.
+Acceptance criteria:
+ 	Recruiters must be able to make offers to candidates through the platform.
+ 	Recruiters must be able to negotiate salary and other terms with candidates.
+ 	Recruiters must be able to track the progress of offers and acceptances.

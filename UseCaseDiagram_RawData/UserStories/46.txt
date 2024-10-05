@@ -1,0 +1,78 @@
+User stories for Healthcare and wellness app
+279. As a user, I want to be able to track my daily water intake so that I can ensure I am staying hydrated.
+Acceptance Criteria:
+ 	The app should have a water tracker feature accessible from the home screen.
+ 	The user should be able to input the amount of water they drink throughout the day in ounces or milliliters.
+ 	The app should calculate the user's total water intake for the day and display it in a clear and easy-to-understand way.
+ 	The user should be able to set a daily water intake goal and the app should provide reminders if they haven't met their goal.
+ 	The app should allow the user to view their water intake history over time and track their progress.
+
+280. As a user, I want to be able to find healthy recipes that fit my dietary restrictions so that I can maintain a healthy diet.
+Acceptance Criteria:
+ 	The app should have a recipe section accessible from the home screen.
+ 	The user should be able to filter recipes based on their dietary restrictions (e.g. gluten-free, vegan, low-carb).
+ 	The app should provide detailed instructions and nutritional information for each recipe.
+ 	The user should be able to save their favorite recipes to a "favorites" section for easy access.
+ 	The app should have a user rating system so that users can rate recipes and share their experiences with others.
+
+281. As a user, I want to be able to book appointments with healthcare providers through the app so that I can easily schedule and manage my healthcare needs.
+Acceptance Criteria:
+ 	The app should have a "book appointment" feature accessible from the home screen.
+ 	The user should be able to search for healthcare providers based on their location and specialty.
+ 	The app should display availability for each provider and allow the user to select a time and date for their appointment.
+ 	The user should receive a confirmation of their appointment via email or push notification.
+ 	The app should have a feature for the user to easily cancel or reschedule their appointment if needed.
+
+282. As a user, I want to be able to track my physical activity so that I can monitor my fitness level and progress.
+Acceptance Criteria:
+ 	The app should have a physical activity tracker accessible from the home screen.
+ 	The user should be able to input the type and duration of their physical activity (e.g. running, yoga, weightlifting).
+ 	The app should calculate the user's total activity time and calories burned for the day.
+ 	The user should be able to set a daily activity goal and the app should provide reminders if they haven't met their goal.
+ 	The app should allow the user to view their activity history over time and track their progress.
+
+283. As a user, I want to be able to access reliable healthcare information through the app so that I can make informed decisions about my health.
+Acceptance Criteria:
+ 	The app should have a healthcare information section accessible from the home screen.
+ 	The information should be provided by reputable sources (e.g. medical associations, government organizations).
+ 	The information should be organized into easily navigable categories (e.g. conditions and treatments, medications, healthy living).
+ 	The user should be able to search for specific information using keywords.
+ 	The app should have a feature for the user to submit questions to healthcare professionals for clarification or additional information if needed.
+
+284. As a user, I want to be able to connect with other users who have similar health goals so that I can receive support and motivation.
+Acceptance Criteria:
+ 	The app should have a community section accessible from the home screen.
+ 	The user should be able to create a profile and connect with other users based on shared interests or health goals.
+ 	The app should have a feature for users to post updates and share their progress with the community.
+ 	The user should be able to like and comment on other users' posts.
+ 	The app should have a user rating system so that users can rate the helpfulness and supportiveness of others in the community.
+
+285. As a user, I want to be able to access virtual consultations with healthcare providers through the app so that I can receive medical advice from the comfort of my home.
+Acceptance Criteria:
+ 	The app should have a virtual consultation feature accessible from the home screen.
+ 	The user should be able to search for healthcare providers who offer virtual consultations.
+ 	The app should allow the user to schedule a virtual consultation with the provider of their choice.
+ 	The user should be able to join the virtual consultation through the app's video chat feature.
+ 	The app should allow the user to submit payment for the virtual consultation through the app.
+
+286. As a user, I want to be able to track my mental health so that I can monitor my mood and manage my emotional well-being.
+Acceptance Criteria:
+ 	The app should have a mental health tracker accessible from the home screen.
+ 	The user should be able to log their mood and any symptoms they are experiencing (e.g. anxiety, depression).
+ 	The app should provide resources and coping mechanisms for managing mental health issues.
+ 	The user should be able to set reminders for self-care activities (e.g. meditation, exercise).
+ 	The app should allow the user to view their mental health history over time and track their progress.
+287. As a user, I want to be able to access my medical records through the app so that I can easily keep track of my health history.
+Acceptance Criteria:
+ 	The app should have a medical records section accessible from the home screen.
+ 	The user should be able to securely upload and store their medical records in the app.
+ 	The app should allow the user to share their medical records with healthcare providers as needed.
+ 	The user should be able to view a summary of their medical history, including medications and allergies.
+ 	The app should have a feature for the user to add notes and update their medical information as needed.
+288. As a user, I want to be able to receive personalized health recommendations based on my unique needs and goals.
+Acceptance Criteria:
+ 	The app should have a personalized health recommendations section accessible from the home screen.
+ 	The user should be able to input their health goals and any health conditions or concerns they have.
+ 	The app should provide personalized recommendations for diet, exercise, and other healthy habits based on the user's input.
+ 	The user should be able to track their progress toward their health goals using the app.
+ 	The app should have a feature for the user to adjust their health goals and update their recommendations as needed.

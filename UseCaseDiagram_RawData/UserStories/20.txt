@@ -1,0 +1,49 @@
+User stories for Managing a personal calendar
+39. As a user, I want to be able to create events in my personal calendar, so that I can keep track of my schedule.
+Acceptance criteria:
+ 	The user should be able to add a title, date, time, and location for each event.
+ 	The user should be able to select a reminder for each event.
+ 	The user should be able to edit or delete events.
+40. As a user, I want to be able to view my personal calendar by day, week, or month, so that I can easily see my schedule.
+Acceptance criteria:
+ 	The user should be able to switch between day, week, and month views.
+ 	The user should be able to navigate between days, weeks, and months.
+ 	The user should be able to see all events on the calendar in the selected view.
+41. As a user, I want to be able to set my availability in my personal calendar, so that others can see when I am free.
+Acceptance criteria:
+
+ 	The user should be able to block off time slots on their calendar to indicate their availability.
+ 	The user should be able to select whether they are available or unavailable during a blocked off time slot.
+ 	The user should be able to edit or delete blocked off time slots.
+42. As a user, I want to be able to share my calendar with others, so that they can see my schedule.
+Acceptance criteria:
+ 	The user should be able to invite others to view their calendar.
+ 	The user should be able to select which events to share with others.
+ 	The user should be able to revoke access to their calendar at any time.
+43. As a user, I want to be able to sync my personal calendar with other calendars, so that I can see all my events in one place.
+Acceptance criteria:
+ 	The user should be able to connect their personal calendar to other calendar services.
+ 	The user should be able to select which events to sync with other calendars.
+ 	The user should be able to disconnect their personal calendar from other calendar services at any time.
+
+44.	As a user, I want to be able to set reminders for events in my personal calendar, so that I don't forget important appointments.
+Acceptance criteria:
+ 	The user should be able to set reminders for events in their personal calendar.
+ 	The user should be able to select the time and type of reminder (e.g. notification, email).
+ 	The user should be able to receive reminders on multiple devices.
+45. As a user, I want to be able to search for events in my personal calendar, so that I can find specific appointments.
+Acceptance criteria:
+ 	The user should be able to search for events by title, date, time, location, or notes.
+ 	The search function should return all events that match the search criteria.
+
+45.	As a user, I want to be able to color-code events in my personal calendar, so that I can easily differentiate between different types of appointments.
+Acceptance criteria:
+ 	The user should be able to assign a color to each event in their personal calendar.
+ 	The user should be able to select from a range of colors.
+ 	The user should be able to see the color of each event in the calendar view.
+
+46. As a user, I want to be able to set recurring events in my personal calendar, so that I don't have to manually create the same event multiple times.
+Acceptance criteria:
+ 	The user should be able to set a recurring schedule for an event (e.g. daily, weekly, monthly, yearly).
+ 	The user should be able to specify the end date for the recurring schedule.
+ 	The user should be able to edit or delete individual instances of a recurring event.

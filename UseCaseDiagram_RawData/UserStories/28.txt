@@ -1,0 +1,45 @@
+User stories for New Bank Account                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+108. As a new customer, I want to open a bank account online, so that I can easily transfer money to my friends and family.
+Acceptance Criteria:
+ 	The bank website has a clear and user-friendly interface for account opening.
+ 	The customer must provide all necessary personal and contact information.
+ 	The customer must provide a valid government-issued ID for identity verification.
+ 	The customer must choose a type of account that allows money transfer.
+109. As a customer, I want to deposit money into my new bank account, so that I can start using it for transactions.
+Acceptance Criteria:
+ 	The bank accepts various forms of deposit, such as cash, check, or online transfer.
+ 	The deposit process is easy and straightforward, with clear instructions and guidance.
+ 	The customer receives a confirmation message or receipt after the deposit is completed.
+ 	The deposited amount is reflected accurately in the customer's account balance.
+110. As a customer, I want to withdraw money from my bank account, so that I can access my funds anytime and anywhere.
+Acceptance Criteria:
+ 	The bank allows withdrawals through various channels, such as ATM, online, or in-person.
+ 	The withdrawal process is secure and requires proper authentication, such as PIN or password.
+ 	The bank has sufficient cash or fund availability for the requested amount.
+ 	The customer receives a confirmation message or receipt after the withdrawal is completed.
+111. As a customer, I want to view my account balance, so that I can keep track of my transactions and expenses.
+Acceptance Criteria:
+ 	The bank provides a user-friendly interface for account balance inquiry, such as through online or mobile banking.
+ 	The account balance is updated in real-time or with minimal delay.
+ 	The account balance is accurate and reflects all recent transactions and fees.
+ 	The customer can view the account balance in various currencies or formats.
+112. As a customer, I want to check my recent transactions, so that I can verify my account activity and detect any errors or fraud.
+Acceptance Criteria:
+
+ 	The bank provides a mini statement or transaction history, showing the latest transactions and their details.
+ 	The mini statement is easily accessible and available in various formats, such as online, mobile, or paper.
+ 	The mini statement shows the transaction type, date, time, amount, and other relevant information.
+ 	The customer can filter or search the mini statement by various criteria, such as date range, transaction type, or amount.
+113. As a customer, I want to transfer money to another account within the same bank, so that I can pay bills or send money to my contacts.
+Acceptance Criteria:
+
+The bank allows money transfer through various channels, such as online, mobile, or in-person.
+The money transfer process is secure and requires proper authentication, such as PIN or password.
+The bank verifies the recipient's account details, such as account number, name, or branch.
+The customer receives a confirmation message or receipt after the money transfer is completed.
+114. As a customer, I want to transfer money to another account in a different bank, so that I can send money to people who don't have accounts in my bank.
+Acceptance Criteria:
+ 	The bank allows interbank transfer through various channels, such as online, mobile, or in-person.
+ 	The interbank transfer process is secure and requires proper authentication, such as PIN or password.
+ 	The bank verifies the recipient's bank and account details, such as bank name, routing number, or account number.
+ 	The customer pays a reasonable fee for the interbank transfer, based on the amount and speed of transfer.

@@ -1,0 +1,53 @@
+User stories for online shopping 
+10.	As a customer, I want to be able to browse and search for products easily and efficiently.
+
+Acceptance criteria:
+
+ 	The online shopping website provides a user-friendly interface with clear categories, filters, and search functionality.
+ 	The website's search results are relevant and accurate.
+ 	The website's product listings include high-quality product images, descriptions, and prices.
+
+11.	As a customer, I want to be able to add products to my cart and review my cart before checking out.
+
+Acceptance criteria:
+
+ 	The online shopping website allows customers to add products to their cart and review their cart before checking out.
+ 	The cart shows the selected products, quantities, prices, and any applicable discounts or promotions.
+ 	The cart's total reflects all applicable taxes, fees, and shipping costs.
+
+12.	As a customer, I want to be able to track my order's status and receive updates throughout the delivery process.
+        Acceptance criteria:
+ 	The online shopping website provides clear and timely updates on the order's status, from processing to delivery.
+ 	The website's updates include estimated delivery dates and times, tracking numbers, and any delivery instructions.
+ 	The website's updates are sent via email or text message, as preferred by the customer.
+
+13.	As a customer, I want to be able to view customer reviews and ratings for products.
+       Acceptance criteria:
+ 	The online shopping website displays customer reviews and ratings for products clearly and prominently.
+ 	The website's customer reviews and ratings are relevant, accurate, and up-to-date.
+ 	The website allows customers to sort the reviews by helpfulness, date, or rating.
+
+14.	As a customer, I want to be able to easily return or exchange products if they are not satisfactory.
+      Acceptance criteria:
+ 	The online shopping website provides clear and simple return or exchange policies.
+ 	The website's return or exchange process is user-friendly and transparent.
+ 	The website allows customers to track their return or exchange status and receive timely updates.
+
+15.	As a customer, I want to be able to receive recommendations for products based on my browsing and purchase history.
+              Acceptance criteria:
+ 	The online shopping website provides personalized product recommendations based on the customer's browsing and purchase history.
+ 	The website's recommendations are relevant, accurate, and respectful of the customer's privacy.
+ 	The website allows customers to provide feedback on the recommendations to improve their accuracy.
+
+16.	As a customer, I want to be able to access customer support easily and receive timely assistance.
+
+Acceptance criteria:
+ 	The online shopping website provides multiple channels for customer support, such as email, phone, or chat.
+ 	The website's customer support is responsive, friendly, and knowledgeable.
+ 	The website's customer support hours are clearly communicated and respectful of the customer's time.
+
+17.	As a customer, I want to be able to pay securely and conveniently.
+Acceptance criteria:
+ 	The online shopping website allows customers to pay securely and conveniently using multiple payment options, such as credit card, PayPal, or Apple Pay.
+ 	The website's payment process is encrypted, PCI-compliant, and verified by third-party services.
+ 	The website allows customers to save their payment information securely for faster checkout in the future.

@@ -1,0 +1,49 @@
+User stories for Parking Finder
+144. As a user, I want to be able to easily search for available parking spots in my desired location and time period.
+Acceptance Criteria:
+ 	The search function should allow me to input my desired location and date/time.
+ 	The search function should display a list of available parking spots with relevant details such as location, price, and availability.
+145. As a user, I want to be able to filter my search results based on specific criteria such as parking type and price.
+Acceptance Criteria:
+ 	The filter options should be prominently displayed and easy to use.
+ 	The filter options should allow me to select specific criteria such as parking type and price range.
+ 	The filter options should update the search results in real-time as I make my selections.
+146. As a user, I want to be able to view detailed information about the parking spot, including its location, price, and any additional fees.
+Acceptance Criteria:
+ 	The parking spot information should be clearly displayed and easy to understand.
+ 	The parking spot information should include relevant details such as location, price, and any additional fees.
+ 	The parking spot information should be accompanied by high-quality images of the parking spot.
+147. As a user, I want to be able to easily book a parking spot and receive confirmation of my reservation.
+Acceptance Criteria:
+ 	The booking process should be easy to follow and include clear instructions for entering my personal and payment information.
+ 	The booking process should display the total cost of my parking spot, including any additional fees.
+ 	I should receive a confirmation email with the details of my parking spot reservation.
+148.As a user, I want to be able to modify or cancel my parking spot reservation if needed.
+Acceptance Criteria:
+ 	The website should allow me to modify or cancel my reservation easily from my account dashboard.
+ 	The website should clearly state the cancellation and modification policy.
+ 	I should receive a confirmation email if I modify or cancel my reservation.
+149. As a user, I want to be able to view and print my parking spot reservation confirmation and receipt.
+Acceptance Criteria:
+ 	The website should allow me to access my parking spot reservation confirmation and receipt from my account dashboard.
+ 	The reservation confirmation and receipt should be easy to understand and clearly display all relevant information.
+ 	The reservation confirmation and receipt should be available to print or download as needed.
+150. As a user, I want to be able to view the availability of parking spots in real-time.
+Acceptance Criteria:
+ 	The website should display the real-time availability of parking spots.
+ 	The website should clearly indicate the number of available parking spots in each location.
+ 	The website should update the availability in real-time as parking spots are booked or become available.
+151. As a user, I want to be able to view parking spot reviews and ratings from other users.
+Acceptance Criteria:
+ 	The website should display parking spot reviews and ratings from other users.
+ 	The reviews and ratings should be easy to understand and provide relevant information.
+ 	Users should be able to sort reviews and ratings by criteria such as date, rating, and relevance.
+152. As a user, I want to be able to report any issues with the parking spot or payment process.
+Acceptance Criteria:
+ 	The website should provide clear instructions for reporting any issues with the parking spot or payment process.
+ 	The website should have a customer support line for reporting any issues.
+ 	The website should provide a solution to reported issues in a timely manner.
+153. As a user, I want to be able to save my favorite parking spots and receive notifications when they become available.
+Acceptance Criteria:
+ 	The website should allow users to save their favorite parking spots.
+ 	The website should allow users to set up notifications when

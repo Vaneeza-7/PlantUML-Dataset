@@ -1,0 +1,71 @@
+User stories for health app
+269. As a user, I want to track my daily water intake so that I can ensure I am drinking enough water.
+Acceptance Criteria:
+ 	The app should allow the user to input the amount of water they drink each day.
+ 	The app should display the user's daily water intake in a clear and easy-to-read format.
+ 	The app should provide the user with reminders to drink water throughout the day.
+ 	The user should be able to set a daily water intake goal.
+ 	The app should provide feedback to the user on their progress towards their goal.
+270. As a user, I want to be able to track my meals so that I can monitor my daily calorie intake.
+Acceptance Criteria:
+ 	The app should allow the user to input their meals and snacks for each day.
+ 	The app should display the user's daily calorie intake in a clear and easy-to-read format.
+ 	The user should be able to set a daily calorie intake goal.
+ 	The app should provide feedback to the user on their progress towards their goal.
+ 	The user should be able to view a breakdown of their macronutrient intake (carbohydrates, protein, fat).
+271. As a user, I want to be able to set exercise goals so that I can track my progress.
+Acceptance Criteria:
+ 	The app should allow the user to set exercise goals (e.g. number of steps per day, number of minutes of activity per week).
+ 	The app should track the user's progress towards their goals.
+ 	The app should provide the user with feedback on their progress.
+The app should allow the user to input different types of exercise (e.g. running, cycling, swimming).
+ 	The user should be able to view a history of their exercise activities.
+272. As a user, I want to be able to track my weight so that I can monitor my progress.
+Acceptance Criteria:
+ 	The app should allow the user to input their weight.
+ 	The app should display the user's weight in a clear and easy-to-read format.
+ 	The app should allow the user to set a weight loss or weight gain goal.
+ 	The app should provide the user with feedback on their progress towards their goal.
+ 	The user should be able to view a history of their weight entries.
+273.  As a user, I want to be able to track my blood pressure readings so that I can monitor my health.
+Acceptance Criteria:
+ 	The app should allow the user to input their blood pressure readings.
+ 	The app should display the user's blood pressure readings in a clear and easy-to-read format.
+ 	The app should provide the user with feedback on their blood pressure readings.
+ 	The user should be able to view a history of their blood pressure readings.
+ 	The app should provide the user with information on healthy blood pressure ranges.
+274. As a user, I want to be able to track my menstrual cycle so that I can plan ahead and understand my body better.
+Acceptance Criteria:
+ 	The app should allow the user to input the start and end dates of their menstrual cycle.
+ 	The app should display the user's menstrual cycle in a clear and easy-to-read format.
+ 	The app should provide the user with predictions for their next menstrual cycle.
+ 	The app should allow the user to input symptoms and notes related to their menstrual cycle.
+ 	The app should provide the user with educational information about menstrual health.
+275. As a user, I want to be able to find healthy recipes that fit my dietary needs.
+Acceptance Criteria:
+ 	The app should provide the user with a database of healthy recipes.
+ 	The app should allow the user to filter recipes by dietary needs (e.g. vegetarian, gluten-free, low-carb).
+ 	The app should provide nutritional information for each recipe.
+ 	The user should be able to save recipes to a favorites list.
+ 	The app should allow the user to create a grocery list based on the recipes they have selected.
+276. As a user, I want to be able to connect with friends and family to share our health progress and goals.
+Acceptance Criteria:
+ 	The app should allow the user to connect with friends and family through a social network.
+ 	The app should allow the user to share their progress and goals with their connections.
+ 	The app should allow the user to comment on and like their connections' posts.
+ 	The app should provide the user with privacy settings to control who can see their posts.
+ 	The app should allow the user to join public groups related to health and wellness.
+277. As a user, I want to be able to find nearby gyms and fitness classes.
+Acceptance Criteria:
+ 	The app should provide the user with a map of nearby gyms and fitness studios.
+ 	The app should allow the user to filter by location and type of workout (e.g. yoga, spin, weightlifting).
+ 	The app should display the gym or studio's ratings and reviews.
+ 	The user should be able to save their favorite gyms and studios.
+ 	The app should allow the user to book classes and appointments directly through the app.
+278. As a user, I want to be able to access educational resources on health and wellness.
+Acceptance Criteria:
+ 	The app should provide the user with articles and videos on a variety of health and wellness topics.
+ 	The app should allow the user to filter by topic (e.g. nutrition, mental health, exercise).
+ 	The app should provide the user with information on trusted sources for health information.
+ 	The user should be able to save articles and videos for later viewing.
+ 	The app should allow the user to share articles and videos on social media or with their connections.

@@ -1,0 +1,58 @@
+User stories for food order online
+
+1. As a customer, I want to be able to create an account and save my payment and delivery information for future orders.
+Acceptance criteria:
+ 	The restaurant's online ordering system allows customers to create and manage their accounts.
+ 	Customers can securely save their payment and delivery information for faster checkout.
+ 	The account information is protected by appropriate security measures.
+
+2. As a customer, I want to be able to view the nutritional information and allergen information for each menu item so that I can make informed choices.
+Acceptance criteria:
+ 	The restaurant's online ordering system provides clear and accurate nutritional information and allergen information for each menu item.
+ 	The information is updated regularly and reflects any changes to the menu or ingredients.
+ 	Customers can easily access the information when browsing the menu or placing an order.
+
+3. As a customer, I want to be able to redeem rewards or use discount codes for my orders.
+Acceptance criteria:
+ 	The restaurant's online ordering system allows customers to redeem rewards or use discount codes for their orders.
+ 	The rewards or discount codes are verified and applied accurately.
+ 	Customers are informed of any restrictions or limitations on the use of rewards or discount codes.
+ 	As a customer, I want to be able to schedule my order for a specific date and time in advance.
+ 	Acceptance criteria:
+ 	The restaurant's online ordering system allows customers to schedule their orders for a specific date and time in advance.
+ 	The restaurant staff confirm the scheduled order and prepare it accordingly.
+ 	The estimated delivery or pickup times are accurate and updated in real-time based on the scheduled order.
+
+4. As a customer, I want to be able to see the restaurant's ratings and reviews from third-party platforms like Yelp or Google.
+Acceptance criteria:
+ 	The restaurant's online ordering system integrates with third-party platforms like Yelp or Google to display the restaurant's ratings and reviews.
+ 	The ratings and reviews are updated regularly and reflect the most recent feedback.
+ 	Customers can easily access the ratings and reviews when browsing the menu or placing an order.
+5. As a customer, I want to be able to split the bill with friends or colleagues when placing a group order.
+Acceptance criteria:
+ 	The restaurant's online ordering system allows customers to split the bill with friends or colleagues when placing a group order.
+ 	The payment is divided accurately and reflects any modifications or cancellations.
+ 	The payment process is secure and user-friendly.
+
+6. As a customer, I want to be able to view the restaurant's specials and promotions when browsing the menu.
+Acceptance criteria:
+ 	The restaurant's online ordering system displays the restaurant's specials and promotions prominently when browsing the menu.
+ 	The specials and promotions are updated regularly and reflect the most recent offerings.
+ 	Customers can easily access the specials and promotions when browsing the menu or placing an order.
+
+7. As a customer, I want to be able to split the bill with friends or colleagues when placing a group order.
+Acceptance criteria:
+ 	The restaurant's online ordering system allows customers to split the bill with friends or colleagues when placing a group order.
+ 	The payment is divided accurately and reflects any modifications or cancellations.
+ 	The payment process is secure and user-friendly.
+
+8. As a customer, I want to be able to view the restaurant's specials and promotions when browsing the menu.
+Acceptance criteria:
+ 	The restaurant's online ordering system displays the restaurant's specials and promotions prominently when browsing the menu.
+ 	The specials and promotions are updated regularly and reflect the most recent offerings.
+ 	Customers can easily access the specials and promotions when browsing the menu or placing an order.
+
+9. As a customer, I want to be able to leave delivery instructions for the restaurant, such as gate codes or special parking arrangements.
+Acceptance criteria:
+ 	The restaurant's online ordering system allows customers to leave delivery instructions for the restaurant.
+ 	The restaurant staff review and follow the delivery instructions.

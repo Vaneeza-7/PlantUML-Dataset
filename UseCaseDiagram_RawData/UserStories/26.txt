@@ -1,0 +1,46 @@
+User stories for Job Application
+91. As a job seeker, I want to be able to search for job openings that match my skills and experience, so that I can find relevant job opportunities.
+Acceptance criteria:
+ 	The job search feature is prominently displayed on the home screen.
+ 	The job searches results show job openings that match the user's skills and experience.
+ 	The job search results are accurate and up-to-date.
+92. As a job seeker, I want to be able to create and manage my job application profile, so that I can easily apply for multiple job openings.
+Acceptance criteria:
+ 	The job application profile creation feature is easily accessible from the home screen.
+ 	The user can upload their resume and cover letter easily.
+ 	The user can save their job application profile for future use.
+93. As a job seeker, I want to be able to apply for job openings directly from the job board, so that I can easily submit my job application.
+Acceptance criteria:
+ 	The job application feature is easily accessible from the job posting.
+ 	The user can submit their job application with just a few clicks.
+ 	The user can review their job application before submitting it.
+94. As a job seeker, I want to be able to track the status of my job applications, so that I know where I stand in the job application process.
+Acceptance criteria:
+ 	The job application tracking feature is easily accessible from the home screen.
+ 	The user can see the status of their job applications, such as submitted, under review, or rejected.
+ 	The user can receive notifications about the status of their job applications.
+95. As a job seeker, I want to be able to receive job recommendations based on my job application profile, so that I can discover new job opportunities.
+Acceptance criteria:
+ 	The job recommendation feature is prominently displayed on the home screen.
+ 	The job recommendations are based on the user's job application profile and preferences.
+ 	The job recommendations are accurate and relevant to the user's skills and experience.
+96. As a job seeker, I want to be able to communicate with potential employers through the job application platform, so that I can ask questions and provide additional information.
+Acceptance criteria:
+ 	The communication feature is easily accessible from the job application dashboard.
+ 	The user can send and receive messages to and from potential employers.
+ 	The communication feature is secure and private.
+97.As a job seeker, I want to be able to easily update my job application profile, so that I can keep my job application up-to-date.
+Acceptance criteria:
+ 	The job application profile editing feature is easily accessible from the home screen.
+ 	The user can edit their job application profile easily.
+ 	The user can save their updated job application profile for future use.
+98. As a job seeker, I want to be able to receive job alerts when new job openings match my skills and experience, so that I can stay informed about new job opportunities.
+Acceptance criteria:
+ 	The job alert feature is prominently displayed on the home screen.
+ 	The user can set up job alerts based on their preferences.
+ 	The job alerts are timely and relevant.
+99. As a job seeker, I want to be able to see the salary and benefits information for job openings, so that I can make informed decisions about which jobs to apply for.
+Acceptance criteria:
+ 	The salary and benefits information is prominently displayed on the job posting.
+ 	The salary and benefits information is accurate and up-to-date.
+ 	The salary and benefits information is transparent and comprehensive.

@@ -1,0 +1,44 @@
+User stories for personal assistant
+154. As a user, I want to be able to schedule appointments and receive reminders.
+Acceptance Criteria:
+ 	The personal assistant service should allow me to input appointment details such as date, time, location, and purpose.
+ 	The personal assistant service should send me reminders about upcoming appointments via email, text message, or push notification.
+155. As a user, I want to be able to manage my to-do list and receive reminders.
+Acceptance Criteria:
+ 	The personal assistant service should allow me to input and prioritize tasks.
+ 	The personal assistant service should send me reminders about upcoming tasks via email, text message, or push notification.
+156.As a user, I want to be able to book travel arrangements and receive confirmation.
+Acceptance Criteria:
+ 	The personal assistant service should allow me to input travel details such as date, time, location, and preferred airline or hotel.
+ 	The personal assistant service should confirm my travel arrangements and send me a confirmation email.
+157. As a user, I want to be able to make restaurant reservations and receive confirmation.
+Acceptance Criteria:
+ 	The personal assistant service should allow me to input restaurant details such as date, time, location, and party size.
+ 	The personal assistant service should confirm my restaurant reservation and send me a confirmation email.
+158. As a user, I want to be able to order groceries and receive delivery.
+Acceptance Criteria:
+ 	The personal assistant service should allow me to input grocery details such as items, quantity, and delivery address.
+ 	The personal assistant service should confirm my grocery order and provide a delivery window.
+159. As a user, I want to be able to send gifts and receive confirmation.
+Acceptance Criteria:
+ 	The personal assistant service should allow me to input gift details such as recipient name and address, gift type, and delivery date.
+ 	The personal assistant service should confirm my gift order and send me a confirmation email.
+159. As a user, I want to be able to research and book entertainment activities.
+Acceptance Criteria:
+
+ 	The personal assistant service should allow me to search for entertainment activities such as concerts, theater shows, and sporting events.
+ 	The personal assistant service should provide me with relevant details such as dates, times, locations, and ticket prices.
+ 	The personal assistant service should allow me to book and purchase tickets directly through the service.
+160. As a user, I want to be able to book and manage personal services such as house cleaning or pet grooming.
+ 	Acceptance Criteria:
+ 	The personal assistant service should allow me to input personal service details such as date, time, and preferred provider.
+ 	The personal assistant service should confirm my personal service booking and send me a confirmation email.
+161.As a user, I want to be able to receive personalized recommendations for products and services.
+Acceptance Criteria:
+ 	The personal assistant service should use my preferences and past behavior to provide personalized recommendations for products and services.
+ 	The personal assistant service should allow me to provide feedback on recommendations to improve future recommendations.
+162. As a user, I want to be able to communicate with my personal assistant through various channels such as email, text message, or phone.
+Acceptance Criteria:
+ 	The personal assistant service should provide me with multiple channels for communication.
+ 	The personal assistant service should provide me with a timely response to my inquiries and requests.
+ 	The personal assistant service should ensure the privacy and security of my communication channels.
