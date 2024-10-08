@@ -1,0 +1,22 @@
+The system manages patients, doctors, staff, and medical resources within a hospital.
+
+1. Patient Management
+Patients are registered with details like patient ID, name, date of birth, contact information, and medical history.
+The system tracks appointments, diagnoses, treatments, and prescriptions for each patient.
+Patients may be inpatients (admitted) or outpatients, and the system records their admission details (room, ward, doctor assigned) and discharge summaries.
+2. Doctor Management
+Doctors are identified by doctor ID, name, specialization, contact details, and availability.
+Doctors are responsible for diagnosing and treating patients. The system tracks patient-doctor assignments and records the treatment plans and prescriptions provided by each doctor.
+Doctors may also perform surgeries, and the system tracks the schedule and surgery details.
+3. Staff Management
+Other hospital staff members, such as nurses, technicians, and administrative staff, are managed with staff ID, name, role, department, and shift schedules.
+Staff are assigned to various tasks, such as assisting in patient care, performing tests, or managing administrative duties.
+4. Appointment and Scheduling
+Patients can schedule appointments with doctors, which are recorded with appointment ID, date, time, and doctor assigned.
+The system also manages the doctor’s schedule to avoid conflicts and ensure proper patient care.
+5. Treatment and Billing
+The system records treatment plans, including medications, tests, and procedures prescribed by doctors.
+The billing module generates invoices for treatments, medications, and services provided. Each invoice contains details like billing ID, date, amount, and payment status.
+6. Medical Records and Reports
+The hospital maintains medical records for each patient, including their treatment history, lab results, and diagnostic reports.
+The system generates reports on patient admissions, treatment outcomes, and resource utilization within the hospital.

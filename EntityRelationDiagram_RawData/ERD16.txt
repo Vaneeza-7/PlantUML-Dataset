@@ -1,0 +1,23 @@
+The hostel management system is designed to manage the allocation of rooms, track payments, and maintain information on both students and staff.
+
+1. Student Registration and Allocation
+Students register for the hostel by filling out an application form that includes their student ID, name, contact details, department, year of study, and gender.
+Each student is assigned a room based on availability. Rooms are categorized by room number, block, floor, capacity, and type (single, double, triple occupancy).
+A student can occupy only one room at a time, and multiple students may share the same room if it has more than one bed.
+Once a room is allocated, the system stores the date of allocation and generates a room assignment ID to track the occupancy history.
+2. Room Management
+Each room belongs to a block within the hostel (e.g., Block A, Block B).
+The system maintains the status of rooms, indicating whether a room is vacant, occupied, or under maintenance.
+There are staff members assigned to manage room maintenance requests. These staff members are identified by their staff ID, name, role, and contact information.
+3. Fees and Payment Tracking
+Students are charged a monthly fee based on the room type they are assigned. The fee details include the amount, due date, and payment status (paid, pending, overdue).
+Students can make payments for the hostel fees through the system. Each payment is recorded with a payment ID, payment date, amount paid, and the method of payment (cash, card, online transfer).
+The system should also track any penalties for late payments and generate invoices for students.
+4. Visitor Management
+The hostel management system allows students to register visitors. Visitors are recorded with visitor ID, name, contact details, and the date and time of their visit.
+A visitor must be assigned to a specific student, and their entry and exit are recorded for security purposes.
+5. Complaint and Maintenance Tracking
+Students can file complaints regarding room maintenance or other issues through the system. Each complaint is assigned a complaint ID, description, date filed, and status (open, in progress, resolved).
+Maintenance staff members are assigned to resolve these complaints, and the system tracks maintenance requests, including the staff assigned, completion date, and maintenance details.
+6. Reporting
+The system generates reports on room occupancy, student payment statuses, and maintenance requests. These reports can be filtered by block, student, or date range.

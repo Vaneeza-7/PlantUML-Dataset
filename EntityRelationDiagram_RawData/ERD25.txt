@@ -1,0 +1,7 @@
+The system is designed to manage the operations of a disaster management company, focusing on preparedness, response, recovery, and mitigation of disasters. It tracks emergency response teams, including details such as team member IDs, names, roles, contact information, and certifications relevant to disaster response (e.g., first aid, search and rescue).
+
+The company manages disaster response plans for various types of emergencies (natural disasters, industrial accidents, etc.), including specific procedures, assigned personnel, and required resources. Each plan is documented with plan ID, type of disaster, location, and contact points for local authorities and agencies.
+
+The system also monitors resource inventory, including supplies like food, water, medical kits, and equipment such as vehicles and communication devices. Each item is tracked by inventory ID, quantity, location, and expiration dates for perishable items.
+
+Additionally, the company conducts training programs for personnel, documenting training schedules, attendee lists, and evaluation results to ensure that staff are adequately prepared. The system generates reports on past disaster responses, resource usage, and team performance, aiding in continuous improvement and effective planning for future emergencies.

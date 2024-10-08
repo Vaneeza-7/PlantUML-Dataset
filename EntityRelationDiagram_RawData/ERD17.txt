@@ -1,0 +1,29 @@
+A software house management system is designed to manage employees, projects, clients, and resources for a software development company.
+
+1. Employee Management
+The company employs software engineers, project managers, quality assurance testers, designers, and other roles. Each employee has an employee ID, name, email, contact number, position, and department (e.g., Development, QA, HR).
+Employees are also tracked by their date of joining, salary, and availability (active, on leave, etc.).
+Employees can be assigned to multiple projects at the same time, but each project requires tracking the employee’s role on the project (developer, tester, manager, etc.).
+2. Client Management
+The system maintains details about clients who provide the company with projects. Each client has a client ID, company name, contact person, email, and phone number.
+Clients can have multiple projects with the software house. Each project has an associated start date, end date, budget, and status (active, completed, on hold).
+A client can make payments to the software house for services provided. These payments are tracked with a payment ID, payment date, amount, and payment method (bank transfer, credit card, etc.).
+3. Project Management
+Each project is given a project ID, name, description, and deadline. The system tracks the start date and end date of each project.
+Each project is divided into milestones. A milestone includes a milestone ID, description, start date, end date, and status (in progress, completed).
+A project can be assigned multiple employees, with each employee having a specific role (developer, manager, tester, etc.) in the project. The system records the hours worked by employees on each project.
+The system should also track the project budget, including cost of resources, payments made by clients, and any additional expenses.
+4. Task Management
+Projects are broken down into tasks. Each task has a task ID, description, priority (low, medium, high), assigned employee, deadline, and status (pending, in progress, completed).
+Employees are responsible for completing tasks, and the system records time logs for each task, showing how long it took to complete.
+Tasks may also have dependencies, meaning some tasks can only begin once others are completed.
+5. Resource Management
+The software house uses various resources such as software licenses, hardware, and office supplies. Each resource has a resource ID, name, type (software, hardware), purchase date, cost, and assigned department.
+Resources can be allocated to employees or projects. The system should track the current status of resources (in use, available, damaged) and manage inventory levels.
+6. Reporting and Monitoring
+The system generates reports on project progress, employee performance, and resource allocation.
+Reports on client payments and project financials (e.g., total expenditure vs. budget) are also generated for management to monitor the health of each project.
+The system can notify managers when project deadlines are approaching or when payments from clients are overdue.
+7. Payroll Management
+The system should manage employee payroll by storing details like salary, bonus, deductions, and pay date.
+Employees receive monthly salaries, and the system tracks the payroll status (paid, pending) for each employee.

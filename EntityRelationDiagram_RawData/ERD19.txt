@@ -1,0 +1,19 @@
+The system is designed to manage both students and faculty, along with their associated academic activities and roles within the institution.
+
+1. Student Management
+The system stores student information, including student ID, name, email, contact details, department, program, and year of study.
+Each student is enrolled in multiple courses. The system tracks course enrollments, grades, and attendance.
+Students are assigned advisors (faculty members) to guide them throughout their academic journey.
+2. Faculty Management
+Faculty members have a faculty ID, name, email, department, designation (professor, lecturer), and courses taught.
+Faculty members are responsible for teaching courses, advising students, and evaluating student performance through grades and assessments.
+3. Course Management
+Courses are defined with a course ID, name, description, credits, and semester offered.
+Each course is taught by one or more faculty members and is attended by a group of students.
+The system tracks course schedules, assignments, exams, and final grades for students.
+4. Department Management
+The institution is divided into multiple departments (e.g., Computer Science, Mathematics), each with a department head who oversees faculty and academic activities.
+Departments manage both students and faculty within their academic programs.
+5. Reports and Monitoring
+The system generates reports on student performance, faculty workload, course enrollments, and department statistics.
+Academic administrators can monitor student progress, faculty assignments, and overall department performance.

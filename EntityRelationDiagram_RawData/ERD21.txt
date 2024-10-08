@@ -1,0 +1,24 @@
+This system manages the operations of a shopping mall, including tenants (shops), employees, visitors, and services provided within the mall.
+
+1. Shop/Tenant Management
+The mall houses multiple shops, each registered with shop ID, shop name, type of business (e.g., retail, food), floor number, rental amount, and lease period.
+Each shop is managed by a shop owner or manager, with details such as owner name, contact information, and contract details.
+The system tracks rental payments made by each shop and generates invoices for shop owners.
+2. Employee Management
+The system manages mall employees, including security personnel, maintenance staff, and management staff. Each employee is identified by an employee ID, name, position, shift schedule, and assigned duties.
+Employees are assigned to specific zones of the mall (e.g., parking, food court, retail areas), and their attendance and performance are monitored.
+3. Visitor Management
+The system tracks visitors entering the mall, including visitor count per day, entry time, and exit time.
+Special events or promotions may attract more visitors, and the system can help analyze visitor trends during these events.
+4. Parking Management
+The mall offers parking facilities for visitors. The system manages parking slots, including slot ID, floor, availability, and type (standard, VIP).
+Visitors are issued parking tickets, and the system records parking fees and time spent in the parking area.
+5. Event and Promotion Management
+The mall hosts events, such as sales, product launches, or festivals. Each event is recorded with an event ID, event name, date, location (within the mall), and organizer details.
+The system tracks promotions run by individual shops, including promotion details, duration, and participating stores.
+6. Maintenance and Facility Management
+The system handles maintenance requests from shops or employees, with each request assigned a request ID, description, date reported, staff assigned, and status (open, in progress, resolved).
+The system also manages facility maintenance (e.g., elevators, air conditioning), ensuring they are regularly serviced and operational.
+7. Financial Management
+The system tracks the mall’s financial operations, including rental income, maintenance costs, and utility bills (e.g., electricity, water).
+It generates financial reports on mall earnings, operational expenses, and shop rental payments

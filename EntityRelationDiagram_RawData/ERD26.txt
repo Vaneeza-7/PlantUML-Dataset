@@ -1,0 +1,7 @@
+The Car Rental System manages the rental process for customers looking to hire vehicles for short-term use. Customers can register an account with details such as customer ID, name, contact information, and driver's license details. Once registered, customers can browse available cars based on criteria like car type (SUV, sedan, etc.), availability, and price per day.
+
+The system manages a fleet of vehicles, tracking details such as car ID, make and model, license plate, status (available, rented, in maintenance), and rental price. When a customer wants to rent a car, they can choose the rental period, and the system calculates the total rental cost based on the daily rate and any additional fees (e.g., insurance, GPS).
+
+The rental process includes generating a rental agreement that outlines the terms, including the pickup and drop-off locations, dates, and conditions for the rental. The system also tracks the fuel policy (full-to-full, pre-purchase), mileage limits, and any security deposits required.
+
+Upon return, the system assesses the car’s condition, tracks mileage, and records any damages. Customers can provide feedback and ratings based on their rental experience. The system generates reports on vehicle usage, customer satisfaction, and financial performance, aiding management in optimizing the fleet and improving services.
