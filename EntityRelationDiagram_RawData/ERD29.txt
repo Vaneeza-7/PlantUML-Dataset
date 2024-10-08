@@ -1,0 +1,26 @@
+The Online Furniture Store Management System allows customers to browse, purchase, and arrange delivery of furniture through an online platform. The system supports product listings, online payments, order tracking, and delivery management, providing a seamless shopping experience from any location.
+
+Key Features:
+Product Catalog:
+
+The system features a detailed online catalog with various types of furniture such as sofas, beds, tables, and chairs. Each item has information such as product ID, type, dimensions, material, price, and images.
+Customers can filter items by category, price range, material, color, and availability.
+Customer Account and Shopping Cart:
+
+Customers create accounts with their name, email, shipping address, and payment preferences.
+They can add items to their shopping cart, review them, and proceed to checkout when ready. The system calculates total price, including any discounts and shipping costs.
+Online Payment and Order Confirmation:
+
+Payments are processed through secure gateways (credit card, PayPal, mobile payments).
+Once payment is completed, the system generates an order ID and sends a confirmation email to the customer with details of the order, expected delivery time, and tracking information.
+Delivery Management:
+
+The system schedules delivery based on the customer's location, availability, and warehouse stock. Delivery time is calculated based on shipping zones and stock availability.
+Customers can track their orders online, seeing updates such as order processing, dispatched, and delivered.
+Customer Support and Returns:
+
+Customers can contact support via the online system for queries or issues with their order.
+The system handles returns or refund requests, providing options for arranging pickup of returned items or scheduling a replacement.
+Reports and Analytics:
+
+The system generates reports on online sales performance, customer preferences, best-selling products, and website traffic, helping management optimize product offerings and marketing strategies.

@@ -1,0 +1,30 @@
+The Furniture Store Management System supports in-store operations such as product inventory, sales transactions, customer orders, and logistics management. It enables smooth interactions between sales staff and customers, tracks orders, and manages deliveries for store purchases.
+
+Key Features:
+Product Inventory and Display:
+
+Sales representatives use the system to check real-time stock availability of furniture displayed in the store. Items include product ID, name, type, dimensions, material, color, price, and location in-store or warehouse.
+The system allows employees to reserve items for customers if they decide to purchase later.
+Sales Transactions:
+
+In-store purchases are processed through a point-of-sale (POS) system. Once a customer selects an item, the system logs the sale with details such as product purchased, quantity, total price, and payment method (cash, credit, debit).
+Receipts are generated, and the system updates inventory levels automatically upon completion of the sale.
+Custom Orders:
+
+The system supports custom furniture orders, where customers can specify preferred materials, colors, or sizes. Sales staff input these details, and the system provides a price estimate and production timeline.
+Custom orders are tracked through the system, which updates customers on the progress and expected delivery date.
+Delivery Scheduling and Logistics:
+
+For large or bulk purchases, the system schedules home deliveries. Sales staff arrange delivery based on customer preference, stock availability, and logistics capacity.
+The system tracks delivery vehicles, ensuring efficient route planning and timely delivery. Customers receive notifications of their scheduled delivery.
+Customer Profiles and Loyalty Programs:
+
+The system allows the creation of customer profiles, storing purchase history, preferences, and contact information.
+Loyalty programs are integrated, where customers earn points with each purchase. These points can be redeemed for discounts or special promotions during future purchases.
+Refunds and Exchanges:
+
+The system handles refunds or exchanges for in-store purchases. When a customer returns an item, the system updates inventory and issues a refund based on the store's return policy.
+For exchanges, the system checks if replacement items are in stock or arranges an order if necessary.
+Reports and Sales Analysis:
+
+The system generates daily reports on sales performance, in-store best-sellers, and inventory turnover. This helps management track store revenue, customer traffic, and identify popular product categories for in-store promotions.

@@ -1,0 +1,3 @@
+An Entertainment Company Management System helps manage talent bookings, event planning, and financial operations for an entertainment company. It keeps track of artists, performers, and crew members, managing their availability, schedules, and contracts for events or media productions.
+
+The system supports project scheduling, organizing events, performances, and shoots by coordinating necessary resources like venues, equipment, and staff. Additionally, it manages financial tasks such as invoicing, payments, and budget tracking, ensuring the smooth execution of entertainment projects while staying within budgetary constraints.
