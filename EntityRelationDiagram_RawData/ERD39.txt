@@ -1,0 +1,19 @@
+The Cosmetics Store Database is structured to streamline various aspects of store operations, including product cataloging, supplier management, customer profiles, sales transactions, and inventory management. Below are descriptions of each core entity within the database:
+
+Products:
+This entity maintains detailed information about each cosmetic product available in the store. Each product record includes attributes like ProductID (unique identifier), ProductName (e.g., "Matte Lipstick"), Category (such as "skincare," "makeup," or "haircare"), Shade/Variant (specific color or variant for applicable products), UnitPrice, StockQuantity (current units in stock), and SupplierID (linking the product to its supplier). This structure enables efficient tracking and easy retrieval of product details, supporting the store in managing inventory and product assortment.
+
+Suppliers:
+This entity contains information about vendors supplying products to the store. Key attributes include SupplierID (unique identifier for each supplier), SupplierName, ContactNumber, Address, and Email. The Suppliers table links to the Products table through SupplierID, making it easy to track the source of each product and to manage supplier relationships for efficient restocking and inventory planning.
+
+Customers:
+This entity stores customer information, helping to track purchases, manage customer profiles, and enhance customer service. Each customer record includes a CustomerID (unique identifier), CustomerName, ContactNumber, Email, and Address. The Customers table is linked to the Sales table, allowing the store to maintain a history of each customer’s purchases and to provide targeted promotions or loyalty benefits.
+
+Sales:
+This entity records each sale transaction in the store. Key attributes include SaleID (unique identifier for each sale), CustomerID (linking the sale to a specific customer), DateOfSale, and TotalAmount (total sale cost). The Sales table captures the overall details of each transaction, while item-specific information is stored in the SalesDetails entity, making it possible to analyze sales patterns and customer spending.
+
+SalesDetails:
+This entity captures itemized details for each sale, specifying the products sold within each transaction. Attributes include SaleDetailID (unique identifier for each sale detail entry), SaleID (linking to the main sale), ProductID (identifying the specific product sold), QuantitySold, and SalePrice (price per unit at the time of sale). This breakdown provides valuable insights into product demand, supporting sales trend analysis and inventory management.
+
+InventoryTransactions:
+This entity logs all updates to product stock levels, including new stock arrivals, returns, and other adjustments. Key attributes include TransactionID (unique identifier for each inventory update), ProductID (linking to the affected product), TransactionType (e.g., "restock," "sale," "return"), QuantityChanged (amount added or removed from stock), and TransactionDate. This table ensures a complete history of inventory movements, allowing the store to maintain accurate stock levels and prevent stockouts.

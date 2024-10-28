@@ -1,0 +1,14 @@
+The Stationery Store Database is structured to efficiently manage various aspects of store operations, including products, suppliers, customer information, sales transactions, and inventory adjustments. Below are descriptions of each core entity in the database:
+
+Products: This entity holds detailed information about each stationery item available in the store. Each product entry includes attributes like ProductID (unique identifier), ProductName (e.g., "Notebook"), Category (such as "writing" or "drawing supplies"), Description (item specifics like color or size), UnitPrice, StockQuantity (current units in stock), and SupplierID (linking the product to its supplier). This setup allows for efficient tracking and easy retrieval of product information.
+
+Suppliers: This entity maintains data on vendors that supply products to the store. Key attributes include SupplierID (unique identifier for each supplier), SupplierName, ContactNumber, Address, and Email. The Supplier table is linked to the Products table through SupplierID, enabling the store to easily track which products are provided by which supplier and manage supplier relationships effectively.
+
+Customers: This entity stores information about customers, which is useful for tracking purchases and managing customer relations. Each customer record includes a CustomerID (unique identifier), CustomerName, ContactNumber, Email, and Address. The Customers table is linked to the Sales table, allowing the store to keep a record of purchase history for each customer and engage in targeted communication or promotions.
+
+Sales: This entity records each sale transaction. Key attributes are SaleID (unique identifier for each sale), CustomerID (linking the sale to a specific customer), DateOfSale, and TotalAmount (total cost of the sale). The Sales table captures the overall details of each transaction, while detailed item information is stored in the SalesDetails entity.
+
+SalesDetails: This entity stores itemized details of each sale, specifying which products were sold in each transaction. Attributes include SaleDetailID (unique identifier for each sale detail entry), SaleID (linking to the main sale), ProductID (identifying the specific product sold), QuantitySold, and SalePrice (price per unit at the time of sale). This breakdown allows the store to analyze sales trends by product and manage inventory effectively based on sales.
+
+InventoryTransactions: This entity manages all updates to product stock levels, such as new shipments, returns, or other adjustments. Key attributes are TransactionID (unique identifier for each inventory update), ProductID (linking to the affected product), TransactionType (e.g., "restock," "sale," "return"), QuantityChanged (number of units added or removed), and TransactionDate. This table provides a history of inventory movements, helping the store maintain accurate stock levels.
+
