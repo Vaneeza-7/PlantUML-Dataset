@@ -1,0 +1,11 @@
+The Home Automation Control System Database is structured to efficiently manage the integration, monitoring, and control of smart home devices across various households. The database is designed to store information about user accounts, registered devices, and the interactions between users and devices, enabling seamless control and automation.
+
+At the core, the database contains a Users table to store essential user information and preferences, allowing personalized control settings for each account. A Devices table captures details of all connected smart devices (e.g., lights, thermostats, cameras) registered by each user. This table links with a Device Types table, specifying characteristics of each device type, such as compatibility with routines and alert capabilities.
+
+To support automation, the Routines table stores preset actions for various scenarios (like “Good Morning” or “Away Mode”), associating specific actions with multiple devices. Additionally, the Device Logs table records device activity, status changes, and alerts for security and monitoring purposes. This structure allows the system to track device performance and provide a history of interactions, helping users and administrators maintain a secure and efficient smart home environment.
+
+
+
+
+
+

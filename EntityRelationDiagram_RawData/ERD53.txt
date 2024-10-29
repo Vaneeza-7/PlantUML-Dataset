@@ -1,0 +1,42 @@
+Sustainable Lifestyle Tracker Database Overview
+Users:
+
+Stores user profiles, including personal details, lifestyle preferences, and sustainability goals.
+Supports user authentication and customization of the app experience based on individual eco-friendly choices.
+Carbon Footprint:
+
+Records user activity data (e.g., transportation, energy consumption, waste generation) to calculate and track individual carbon footprints.
+Provides insights into how users' daily choices impact their overall sustainability.
+Tips:
+
+Compiles eco-friendly tips and practices categorized by areas such as transportation, food, energy use, and waste reduction.
+Allows users to save favorite tips and receive daily or weekly suggestions based on their goals.
+Product Recommendations:
+
+Features a curated list of sustainable products and brands, including descriptions, benefits, and purchasing links.
+Users can rate and review products, providing community feedback on sustainable choices.
+Community Achievements:
+
+Highlights collective accomplishments and milestones achieved by users, such as reduced carbon footprints or waste diversion efforts.
+Encourages user participation and engagement through challenges and recognition of community efforts.
+Challenges:
+
+Organizes various sustainability challenges (e.g., zero waste week, meatless month) that users can participate in to promote eco-friendly habits.
+Tracks users’ participation and progress in completing challenges.
+Events:
+
+Lists upcoming community events related to sustainability, such as workshops, clean-up drives, and informational sessions.
+Allows users to RSVP and share their participation with friends.
+Feedback and Ratings:
+
+Enables users to provide feedback on tips, product recommendations, and challenges, contributing to ongoing improvement of the platform.
+Gathers insights on user experiences to refine content and features.
+Progress Tracking:
+
+Monitors users’ progress towards sustainability goals, including reductions in carbon footprints and engagement in eco-friendly activities.
+Visualizes progress through graphs and milestones to keep users motivated.
+Resource Library:
+
+Provides access to articles, videos, and guides on sustainable living, offering educational resources for users to learn more about eco-friendly practices.
+Allows users to bookmark and share helpful materials with the community.
+This structured database design for the Sustainable Lifestyle Tracker fosters an engaging and supportive environment for users aiming to adopt more eco-friendly practices in their daily lives while connecting them with resources, community achievements, and actionable goals.

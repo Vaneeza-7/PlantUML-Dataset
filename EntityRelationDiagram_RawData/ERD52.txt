@@ -1,0 +1,42 @@
+Community Volunteering and Engagement Platform Database Overview
+Users Table:
+
+Stores information about volunteers, including personal details, skills, interests, and availability.
+Supports user authentication and allows for personalized profiles to highlight volunteering experiences.
+Nonprofits Table:
+
+Maintains records of nonprofit organizations, including their mission, contact information, and available projects.
+Links to volunteer opportunities and tracks their history and engagement with volunteers.
+Projects Table:
+
+Contains profiles of community projects and events, including descriptions, locations, dates, and required skills.
+Includes project status (e.g., open, closed, in progress) to keep volunteers informed about opportunities.
+Volunteer Hours Table:
+
+Tracks hours volunteered by users for various projects, ensuring accurate record-keeping for both volunteers and nonprofits.
+Allows users to log hours and provides summaries for reporting and recognition.
+Events Table:
+
+Lists upcoming community events and activities that require volunteer support, including details about participation requirements and schedules.
+Links to projects and nonprofits to encourage volunteer involvement.
+Community Engagement Forums Table:
+
+Facilitates discussions among volunteers and nonprofit representatives, allowing users to ask questions, share experiences, and seek advice.
+Supports categorization of topics for easy navigation and engagement.
+Resource Library Table:
+
+Provides a collection of resources for nonprofits and volunteers, including guides, training materials, and templates for project management.
+Allows nonprofits to upload and share materials with volunteers for skill development.
+Notifications Table:
+
+Manages alerts and reminders for users regarding upcoming projects, events, and volunteer hour submissions.
+Ensures volunteers stay engaged and informed about opportunities relevant to their interests.
+Feedback and Ratings Table:
+
+Enables volunteers to provide feedback on projects and organizations, contributing to quality improvement and accountability.
+Collects ratings and comments that can help new volunteers choose suitable opportunities.
+Admin Table:
+
+Supports administrative functionalities, allowing platform managers to oversee user registrations, project approvals, and system maintenance.
+Facilitates reporting and analytics to track volunteer engagement and nonprofit participation.
+This structured database design for the Community Volunteering and Engagement Platform ensures a robust framework for connecting volunteers with meaningful opportunities while fostering community engagement and supporting nonprofit organizations.

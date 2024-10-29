@@ -1,0 +1,13 @@
+The Online Art Studio Management System is designed to manage operations for an art studio, including art classes, workshops, artist portfolios, and client bookings. This system allows clients to browse classes, view artist portfolios, book studio time, and register for events, while also supporting the studio’s administrative needs.
+
+Artist and Class Management: Maintains profiles for each artist, detailing their specialties, portfolio pieces, and availability for classes. Classes and workshops are listed with descriptions, schedules, and fees, enabling clients to explore offerings and register online.
+
+Booking and Scheduling: Facilitates easy booking of studio sessions, classes, or private events. Clients can view available dates, reserve spots, and receive booking confirmations. Artists and staff can manage schedules, track class capacities, and adjust class availability.
+
+Portfolio and Artwork Display: Provides a digital gallery where artists can showcase their work. Clients can browse artwork, inquire about pieces for sale, or arrange commissions directly through the platform.
+
+Client Management: Stores client information, including contact details, attendance history, and interests, allowing the studio to engage clients with personalized event invitations and updates.
+
+Payments and Billing: Supports online payments for classes, studio bookings, and artwork purchases, with automated receipts and secure transaction processing.
+
+This system improves the studio’s efficiency, fosters client engagement, and enhances the reach of the studio's offerings, supporting both the artistic and business sides of the operation.
