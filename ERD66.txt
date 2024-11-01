@@ -1,7 +1,0 @@
-The Community Library Exchange is a neighborhood-focused system that facilitates the lending and borrowing of books among local users. It enables users to share books they own and access a diverse collection of titles from fellow readers within their community. This platform helps foster a culture of shared resources, reducing waste and promoting easy access to books for everyone.
-
-Each user has a Profile that includes basic information, location, and a list of books they have available for lending. Users can browse Book Listings by title, genre, or author, as well as view details such as book condition, availability status, and a brief description provided by the owner. The system includes a Location-Based Search feature, allowing users to find available books nearby, making it convenient to borrow or return items.
-
-When a user borrows a book, the Borrowing History function keeps track of all books they’ve borrowed or lent out, helping users monitor due dates and manage their current lending status. Both borrowers and lenders can leave reviews, creating a trusted community where users can share feedback on books and borrowing experiences.
-
-The Community Library Exchange system also sends notifications for due dates and book availability, and it offers customizable privacy settings, allowing users to control the visibility of their profile and book listings. This platform not only fosters community connections but also provides an accessible and sustainable way for people to enjoy a wider range of books without purchasing them.
