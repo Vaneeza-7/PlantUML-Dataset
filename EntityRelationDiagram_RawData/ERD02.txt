@@ -1,42 +1,15 @@
- We now present another example, a UNIVERSITY database, to illustrate the ER 
-modeling concepts. Suppose that a database is needed to keep track of student 
-enrollments in classes and students’ final grades. After analyzing the miniworld 
-rules and the users’ needs, the requirements for this database were determined to be 
-as follows (for brevity, we show the chosen entity type names and attribute names 
-for the conceptual schema in parentheses as we describe the requirements; relation
-ship type names are only shown in the ER schema diagram):
- ■ The university is organized into colleges (COLLEGE), and each college has a 
-unique name (CName), a main office (COffice) and phone (CPhone), and a 
-particular faculty member who is dean of the college. Each college adminis
-ters a number of academic departments (DEPT). Each department has a 
-unique name (DName), a unique code number (DCode), a main office 
-(DOffice) and phone (DPhone), and a particular faculty member who chairs 
-the department. We keep track of the start date (CStartDate) when that fac
-ulty member began chairing the department.
-A department offers a number of courses (COURSE), each of which has a 
-unique course name (CoName), a unique code number (CCode), a course 
-level (Level: this can be coded as 1 for freshman level, 2 for sophomore, 3 for 
-junior, 4 for senior, 5 for MS level, and 6 for PhD level), a course credit 
-hours (Credits), and a course description (CDesc). The database also keeps 
-track of instructors (INSTRUCTOR); and each instructor has a unique iden
-tifier (Id), name (IName), office (IOffice), phone (IPhone), and rank (Rank); 
-in addition, each instructor works for one primary academic department.
- ■ The database will keep student data (STUDENT) and stores each student’s 
-name (SName, composed of first name (FName), middle name (MName), 
-last name (LName)), student id (Sid, unique for every student), address 
-(Addr), phone (Phone), major code (Major), and date of birth (DoB). A stu
-dent is assigned to one primary academic department. It is required to keep 
-track of the student’s grades in each section the student has completed.
- ■ Courses are offered as sections (SECTION). Each section is related to a single 
-course and a single instructor and has a unique section identifier (SecId). A 
-section also has a section number (SecNo: this is coded as 1, 2, 3, . . . for mul
-tiple sections offered during the same semester/year), semester (Sem), year 
-(Year), classroom (CRoom: this is coded as a combination of building code 
-(Bldg) and room number (RoomNo) within the building), and days/times 
-(DaysTime: for example, ‘MWF 9am-9.50am’ or ‘TR 3.30pm-5.20pm’—
- restricted to only allowed days/time values). (Note: The database will keep 
-track of all the sections offered for the past several years, in addition to the 
-current offerings. The SecId is unique for all sections, not just the sections for 
-a particular semester.) The database keeps track of the students in each section, 
-and the grade is recorded when available (this is a many-to-many relationship 
-between students and sections). A section must have at least five students.
+A UNIVERSITY database tracks student enrollments, grades, and related academic details. The system includes the following entities and relationships:
+
+COLLEGE: Represents the university’s organizational structure. Each college has a unique name (CName), main office (COffice), phone number (CPhone), and a faculty member as the dean. Colleges administer multiple academic departments.
+
+DEPARTMENT (DEPT): Each department has a unique name (DName), code (DCode), main office (DOffice), phone (DPhone), and a faculty member as chair, with the start date of their tenure (CStartDate). Departments offer courses and manage instructors and students.
+
+COURSE: Departments offer courses, each with a unique name (CoName), code (CCode), level (e.g., 1 for freshman, 2 for sophomore), credit hours (Credits), and a description (CDesc).
+
+INSTRUCTOR: Each instructor has a unique identifier (Id), name (IName), office (IOffice), phone (IPhone), and rank (Rank) and is assigned to one primary department.
+
+STUDENT: Each student has a unique ID (Sid), name (SName: composed of FName, MName, LName), address (Addr), phone (Phone), major code (Major), and date of birth (DoB). Students belong to one primary department, and their grades are tracked for completed sections.
+
+SECTION: Courses are offered as sections, each with a unique identifier (SecId), section number (SecNo), semester (Sem), year (Year), classroom (CRoom: building code and room number), and schedule (DaysTime). Each section is linked to one course and one instructor. Sections must have at least five students.
+
+The system maintains many-to-many relationships between STUDENT and SECTION, with grades recorded as available. Historical and current section data are stored for reference, ensuring comprehensive academic tracking.

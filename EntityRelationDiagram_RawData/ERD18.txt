@@ -1,31 +1,16 @@
-This system is designed to manage final year projects for students in a university, from project proposal submission to final evaluation. It involves tracking students, faculty members, project details, committees, and evaluations.
+This system manages final year projects for university students, covering all phases from proposal submission to final evaluation. It tracks students, faculty, projects, committees, and evaluations to streamline the process.
 
-1. Student Management
-Students submit their project proposals individually or in groups. Each student has a student ID, name, email, department, degree program, and year of study.
-Each group consists of 2-4 students, and a group has a group ID and a leader. The system tracks which students belong to which group.
-Students can submit project proposals, which include the proposal ID, title, description, submission date, and status (pending, approved, rejected).
-2. Project Management
-Each project has a project ID, title, description, start date, end date, and status (ongoing, completed, rejected).
-A project is assigned to one or more supervisors. A supervisor is a faculty member who oversees the progress of the project. The system keeps track of supervisor ID, name, department, email, and designation.
-A project may also involve external mentors from industry, recorded with details such as mentor ID, name, company, email, and role.
-3. Committee Management
-A project evaluation committee is formed to evaluate each project. Each committee is identified by a committee ID, and consists of faculty members from various departments.
-A committee is responsible for the final project evaluation and can provide feedback or request changes to the project. The committee members are recorded with their committee role (chairperson, evaluator, observer), and the date of evaluation is tracked.
-4. Project Evaluation
-The system manages the evaluation of projects through progress reports and final evaluations.
-Progress reports are submitted by students at different phases of the project (e.g., proposal phase, mid-term, final). Each report is recorded with a report ID, submission date, feedback, and status (approved, revisions required).
-The final evaluation includes the committee’s feedback, overall score, and comments on the project. The score is broken down into individual components such as innovation, technical accuracy, and presentation.
-5. Task and Milestone Management
-The project timeline is divided into milestones. Each milestone is recorded with a milestone ID, name, due date, and status (completed, pending).
-Each milestone has associated tasks for students, including task ID, task description, assigned group members, start date, end date, and completion status.
-Supervisors can assign or approve tasks and track the progress of milestones and tasks through the system.
-6. Document and Resource Management
-The system allows students to upload relevant project documents such as proposals, progress reports, source code, and presentations. Each document is tagged with document ID, title, upload date, and file type.
-The system stores resource requirements for the project, such as software, hardware, and budget. Each resource is tracked with a resource ID, name, quantity, and cost.
-7. Reporting and Monitoring
-The system generates reports on project statuses, student performance, and committee evaluations.
-Supervisors and committees can view progress reports to monitor student progress at different stages of the project.
-The system alerts students and supervisors when deadlines for proposals, progress reports, or evaluations are approaching.
-8. Grading and Results
-After the final evaluation, the committee assigns grades to each project, broken down by components such as innovation, technical skills, teamwork, and presentation. These are stored with the evaluation ID, total score, and final grade.
-The system tracks the grade history for each student, allowing supervisors to view performance trends across different projects.
+Student and Project Management:
+Students can submit project proposals individually or in groups, with each group having 2-4 members. The system tracks student details such as ID, name, email, and department, as well as group information like group ID and leader. Proposals include details such as proposal ID, title, description, submission date, and status. Projects are managed with attributes like project ID, title, description, start and end dates, and status (ongoing, completed, or rejected). Projects are supervised by faculty members or external mentors, whose roles and details are recorded.
+
+Committee and Evaluation Management:
+Each project evaluation committee, identified by a committee ID, comprises faculty members with assigned roles (chairperson, evaluator, observer). Committees evaluate projects and provide feedback or request changes. Evaluations include progress reports and final assessments, tracking report submissions, feedback, and scores. Final evaluations break scores into components like innovation, technical accuracy, and presentation.
+
+Milestone and Task Management:
+Projects are divided into milestones, each with a milestone ID, name, due date, and status. Tasks under each milestone are assigned to group members and monitored for progress. Supervisors manage tasks and milestones, ensuring timely completion.
+
+Document Management and Reporting:
+Students upload project-related documents (e.g., proposals, reports, code), tagged with document ID, title, and type. Resource requirements like software, hardware, and budgets are tracked. The system generates reports on project progress, student performance, and evaluations. Alerts notify students and supervisors of approaching deadlines.
+
+Grading and Results:
+Committees assign grades after final evaluations, stored with evaluation ID, total score, and grade breakdowns. The system tracks grade histories, helping supervisors analyze student performance trends. This streamlined approach ensures efficient project management and evaluation.
