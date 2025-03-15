@@ -16,3 +16,9 @@ According to Craig Larman’s approach in *Applying UML and Patterns*, you typic
   Larman’s method advocates starting with a simple, clear model. Only when the design requires further detail (typically during the design phase) should you introduce additional associations to capture how the system organizes or controls its objects.
 
 In summary, while you might later add such associations for implementation or design clarity, according to Larman’s guidance these associations are not needed in the early or conceptual analysis models.
+
+## Insight on Enhance:
+
+- Enhancement (Optimization) should be viewed as the conversion from the second diagram (domain objects) to the first diagram (facade/controller). This is because it introduces a centralized point of interaction for enhancing the system with AI, allowing for easier integration, modification, and maintenance.
+
+The first diagram’s facade/controller approach optimizes system architecture by making it more modular and extensible, especially when introducing complex features like AI.
